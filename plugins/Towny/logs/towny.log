@@ -1,0 +1,18 @@
+05 Sep 2024 09:29:22 [Server thread]: Database: [Load] flatfile [Save] flatfile
+05 Sep 2024 09:29:23 [Server thread]: Database: Loaded in 571ms.
+05 Sep 2024 09:29:23 [Thread-13]: Cleaning up old backups...
+05 Sep 2024 09:29:23 [Thread-13]: Successfully cleaned backups.
+05 Sep 2024 09:29:23 [Folia Async Scheduler Thread #1]: Time until a New Day: 2 hours, 30 minutes, 37 seconds
+05 Sep 2024 09:29:23 [Folia Async Scheduler Thread #2]: Checking for updates...
+05 Sep 2024 09:29:23 [Thread-16]: Making backup...
+05 Sep 2024 09:29:24 [Server thread]: Searching for third-party plugins...
+05 Sep 2024 09:29:24 [Server thread]: Plugins found: 
+05 Sep 2024 09:29:24 [Server thread]:   Permissions: TownyPerms, LuckPerms v5.4.137 via Vault
+05 Sep 2024 09:29:24 [Server thread]:   Chat: LuckPerms v5.4.137 via Vault
+05 Sep 2024 09:29:24 [Server thread]:   Economy: EssentialsX Economy via Vault
+05 Sep 2024 09:29:24 [Folia Async Scheduler Thread #2]: New update available: 0.100.3.13 | Current version: 0.100.3.0
+05 Sep 2024 09:29:24 [Folia Async Scheduler Thread #2]: Download it here: https://github.com/TownyAdvanced/Towny/releases/tag/0.100.3.13
+05 Sep 2024 09:29:24 [Server thread]:   Add-ons: TownyChat v0.115, PlaceholderAPI v2.11.6
+05 Sep 2024 09:29:24 [Server thread]:   Warning: EssentialsX Economy has been known to reset
+                           town and nation bank accounts on rare occasions.
+05 Sep 2024 09:29:24 [Server thread]: Version: 0.100.3.0 - Plugin Enabled

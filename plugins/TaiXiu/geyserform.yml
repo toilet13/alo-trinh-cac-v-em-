@@ -1,0 +1,90 @@
+#
+#      ______   ______     __        __  __     __     __  __
+#     /\__  _\ /\  __ \   /\ \      /\_\_\_\   /\ \   /\ \/\ \
+#     \/_/\ \/ \ \  __ \  \ \ \     \/_/\_\/_  \ \ \  \ \ \_\ \
+#        \ \_\  \ \_\ \_\  \ \_\      /\_\/\_\  \ \_\  \ \_____\
+#         \/_/   \/_/\/_/   \/_/      \/_/\/_/   \/_/   \/_____/
+#
+#  Author: Cortez_Romeo
+#  Download plugin này miễn phí tại: https://minecraftvn.net
+
+file-version: 2
+form:
+  menu:
+    title: '&0Tài xỉu'
+    button:
+      rule:
+        name: '&0Luật chơi'
+        imageType: URL
+        imageData: https://i.imgur.com/UD8v9Ui.png
+      sessionInfo:
+        name: '&0Thông tin phiên'
+        imageType: URL
+        imageData: https://i.imgur.com/m6EdubF.png
+      bet:
+        name: '&0Cược'
+        imageType: URL
+        imageData: https://i.imgur.com/ReMGrcW.png
+      toggle:
+        'on':
+          name: '&2Bật&0 thông báo'
+          imageType: URL
+          imageData: https://i.imgur.com/aANvBJ9.png
+        'off':
+          name: '&4Tắt&0 thông báo'
+          imageType: URL
+          imageData: https://i.imgur.com/3pDJQgt.png
+  rule:
+    title: '&0Luật chơi tài xỉu'
+    content: |-
+      &aTài xỉu - Luật chơi
+
+      &fKhi cộng tổng các nút của 3 xúc xắc từ &e4 - 10&f thì sẽ ra &2Xỉu
+      &fKhi cộng tổng các nút của 3 xúc xắc từ &e11 - 17&f thì sẽ ra &4Tài
+      &fKhi tổng các nút là &e3&f hoặc &e18&f thì nhà cái ăn (Tài, xỉu đều thua)
+      &fSố tiền cược tối thiểu là &6$%minBet%
+      &fSố tiền cược tối đa là &6$%maxBet%
+      &fKhi thắng bạn sẽ nhận được gấp đôi số tiền đã đặt (1 ăn 1)
+    button:
+      goBack:
+        name: '&cTrở về'
+      close:
+        name: '&4Đóng'
+  info:
+    title: Thông tin phiên
+    content:
+      content: |-
+        &fTài xỉu phiên số &b#%session%
+        &fCó kết quả sau: &d%time% giây
+
+        &fNgười chọn xỉu:
+        %xiuPlayers%
+        &fNgười chọn tài:
+        %taiPlayers%
+        &fTổng tiền cược: &6$%totalBet%
+      placeholders:
+        xiuPlayers: |
+          &a%player% &7- &6$%money%
+        taiPlayers: |
+          &c%player% &7- &6$%money%
+    button:
+      goBack:
+        name: '&cTrở về'
+      close:
+        name: '&4Đóng'
+  bet:
+    title: Đặt cược
+    order:
+      '1':
+        label: Bạn đang đặt cược vào phiên số &b#%session%&r. &rBạn còn &d%secondsLeft%
+          giây &rđể đặt cược trước khi phiên khóa.
+      '2':
+        dropdown:
+          name: 'Vui lòng chọn:'
+          options:
+            tai: '&4Tài'
+            xiu: '&2Xỉu'
+      '3':
+        input:
+          name: 'Số tiền muốn cược:'
+          placeholder: '%minBet% - %maxBet%'

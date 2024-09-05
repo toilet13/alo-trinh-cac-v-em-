@@ -1,0 +1,14 @@
+uuid=760271ec-1bcb-3253-9935-37fdfa0ddd4b
+lastOnline=1724652276379
+registered=1724646743366
+joinedTownAt=1724651756028
+isNPC=false
+title=
+surname=
+town=69_seeker
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse
+metadata=

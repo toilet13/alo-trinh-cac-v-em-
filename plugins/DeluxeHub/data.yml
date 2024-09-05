@@ -1,0 +1,21 @@
+chat_locked: false
+holograms:
+  warp:
+    location:
+      ==: org.bukkit.Location
+      world: lobby
+      x: 38.450008762825995
+      y: 74.0
+      z: -485.9464749234137
+      pitch: 27.307005
+      yaw: -155.53531
+    lines:
+    - /rtp de sinh ton
+spawn:
+  ==: org.bukkit.Location
+  world: lobby
+  x: 36.91824764620418
+  y: 74.0
+  z: -487.93671504720777
+  pitch: 30.806467
+  yaw: -95.52283

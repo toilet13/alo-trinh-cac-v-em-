@@ -1,0 +1,287 @@
+shogun_axe:
+  Pack:
+    generate_model: false
+    model: shogunset/axe
+  displayname: "<White>Shogun Axe"
+  material: IRON_AXE
+  permission: shogun.axe
+shogun_bow:
+  Pack:
+    generate_model: false
+    model: shogunset/bow
+    pulling_models:
+      - shogunset/bow_0
+      - shogunset/bow_1
+      - shogunset/bow_2
+  displayname: "<White>Shogun Bow"
+  material: BOW
+  permission: shogun.bow
+shogun_chest:
+  Mechanics:
+    furniture:
+      barrier: true
+      barriers:
+        - { x: 0, y: 0, z: 0 }
+      drop:
+        loots:
+          - oraxen_item: shogun_chest
+        silktouch: false
+      limited_placing:
+        floor: true
+        roof: false
+        type: DENY
+        wall: false
+      rotation: 90
+      type: ITEM_FRAME
+  Pack:
+    generate_model: false
+    model: shogunset/chest
+  displayname: "<White>Shogun Chest"
+  material: PAPER
+  permission: shogun.chest
+shogun_crossbow:
+  Pack:
+    charged_model: shogunset/crossbow_charged
+    firework_model: shogunset/crossbow_firework
+    generate_model: false
+    model: shogunset/crossbow
+    pulling_models:
+      - shogunset/crossbow_0
+      - shogunset/crossbow_1
+      - shogunset/crossbow_2
+  displayname: "<White>Shogun Crossbow"
+  material: CROSSBOW
+  permission: shogun.crossbow
+shogun_fishing_rod:
+  Pack:
+    cast_model: shogunset/fishing_rod_cast
+    generate_model: false
+    model: shogunset/fishing_rod
+  displayname: "<White>Shogun Fishing Rod"
+  material: FISHING_ROD
+  permission: shogun.fishing_rod
+shogun_flag_backpack:
+  Pack:
+    generate_model: false
+    model: shogunset/flag_backpack
+  displayname: "<White>Shogun Flag Backpack"
+  material: PAPER
+  permission: shogun.flag_backpack
+shogun_hammer:
+  Pack:
+    generate_model: false
+    model: shogunset/hammer
+  displayname: "<White>Shogun Hammer"
+  material: IRON_SWORD
+  permission: shogun.hammer
+shogun_head:
+  Mechanics:
+    hat:
+      enabled: true
+  Pack:
+    generate_model: false
+    model: shogunset/helmet
+  displayname: "<White>Shogun Head"
+  material: PAPER
+  permission: shogun.head
+shogun_hoe:
+  Pack:
+    generate_model: false
+    model: shogunset/hoe
+  displayname: "<White>Shogun Hoe"
+  material: IRON_HOE
+  permission: shogun.hoe
+shogun_katana_sheath:
+  Pack:
+    generate_model: false
+    model: shogunset/katana_sheath
+  displayname: "<White>Shogun Katana Sheath"
+  material: PAPER
+  permission: shogun.katana_sheath
+shogun_key:
+  Pack:
+    generate_model: false
+    model: shogunset/key
+  displayname: "<White>Shogun Key"
+  material: PAPER
+  permission: shogun.key
+shogun_pickaxe:
+  Pack:
+    generate_model: false
+    model: shogunset/pickaxe
+  displayname: "<White>Shogun Pickaxe"
+  material: IRON_PICKAXE
+  permission: shogun.pickaxe
+shogun_scythe:
+  Pack:
+    generate_model: false
+    model: shogunset/scythe
+  displayname: "<White>Shogun Scythe"
+  material: IRON_SWORD
+  permission: shogun.scythe
+shogun_shield:
+  Pack:
+    blocking_model: shogunset/shield_blocking
+    generate_model: false
+    model: shogunset/shield
+  displayname: "<White>Shogun Shield"
+  material: SHIELD
+  permission: shogun.shield
+shogun_shovel:
+  Pack:
+    generate_model: false
+    model: shogunset/shovel
+  displayname: "<White>Shogun Shovel"
+  material: IRON_SHOVEL
+  permission: shogun.shovel
+shogun_spear:
+  Pack:
+    generate_model: false
+    model: shogunset/spear
+  displayname: "<White>Shogun Spear"
+  material: IRON_SWORD
+  permission: shogun.spear
+shogun_staff:
+  Pack:
+    generate_model: false
+    model: shogunset/staff
+  displayname: "<White>Shogun Staff"
+  material: IRON_SWORD
+  permission: shogun.staff
+shogun_sword:
+  Pack:
+    generate_model: false
+    model: shogunset/sword
+  displayname: "<White>Shogun Sword"
+  material: IRON_SWORD
+  permission: shogun.sword
+shogun_tanto:
+  Pack:
+    generate_model: false
+    model: shogunset/tanto
+  displayname: "<White>Shogun Tanto"
+  material: IRON_SWORD
+  permission: shogun.tanto
+shogun_trident:
+  Pack:
+    generate_model: false
+    model: shogunset/trident
+  displayname: "<White>Shogun Trident"
+  material: IRON_SWORD
+  permission: shogun.trident
+shogun_boots:
+  Pack:
+    generate_model: true
+    parent_model: item/generated
+    textures:
+      - shogunset/armors/shogun_boots.png
+      - shogunset/armors/shogun_boots.png
+  color: 155, 25, 42
+  displayname: "<White>Shogun Boots"
+  material: LEATHER_BOOTS
+  permission: shogun.boots
+shogun_chestplate:
+  Pack:
+    generate_model: true
+    parent_model: item/generated
+    textures:
+      - shogunset/armors/shogun_chestplate.png
+      - shogunset/armors/shogun_chestplate.png
+  color: 155, 25, 42
+  displayname: "<White>Shogun Chestplate"
+  material: LEATHER_CHESTPLATE
+  permission: shogun.chestplate
+shogun_helmet:
+  Pack:
+    generate_model: true
+    parent_model: item/generated
+    textures:
+      - shogunset/armors/shogun_helmet.png
+      - shogunset/armors/shogun_helmet.png
+  color: 155, 25, 42
+  displayname: "<White>Shogun Helmet"
+  material: LEATHER_HELMET
+  permission: shogun.helmet
+shogun_leggings:
+  Pack:
+    generate_model: true
+    parent_model: item/generated
+    textures:
+      - shogunset/armors/shogun_leggings.png
+      - shogunset/armors/shogun_leggings.png
+  color: 155, 25, 42
+  displayname: "<White>Shogun Leggings"
+  material: LEATHER_LEGGINGS
+  permission: shogun.leggings
+shogun_cosmetics_flag_backpack:
+  Pack:
+    custom_model_data: 7850005
+    generate_model: false
+    model: shogunset/flag_backpack_cosmetics
+  displayname: "<White>Shogun Flag Backpack Cosmetics"
+  material: POTION
+  permission: shogun.flag_backpack_cosmetics
+shogun_cosmetics_flag_backpack_normal_2:
+  Pack:
+    custom_model_data: 7850008
+    generate_model: false
+    model: shogunset/flag_backpack_cosmetics_normal_2
+  displayname: "<White>Shogun Flag Backpack Cosmetics Normal 2"
+  material: POTION
+  permission: shogun.flag_backpack_cosmetics_normal_2
+shogun_cosmetics_flag_backpack_self:
+  Pack:
+    custom_model_data: 7850006
+    generate_model: false
+    model: shogunset/flag_backpack_cosmetics_self
+  displayname: "<White>Shogun Flag Backpack Cosmetics Self"
+  material: POTION
+  permission: shogun.flag_backpack_cosmetics_self
+shogun_cosmetics_flag_backpack_self_2:
+  Pack:
+    custom_model_data: 7850007
+    generate_model: false
+    model: shogunset/flag_backpack_cosmetics_self_2
+  displayname: "<White>Shogun Flag Backpack Cosmetics Self 2"
+  material: POTION
+  permission: shogun.flag_backpack_cosmetics_self_2
+shogun_cosmetics_head:
+  Pack:
+    custom_model_data: 7850000
+    generate_model: false
+    model: shogunset/helmet
+  displayname: "<White>Shogun Head Cosmetics"
+  material: POTION
+  permission: shogun.head_cosmetics
+shogun_cosmetics_katana_sheath:
+  Pack:
+    custom_model_data: 7850001
+    generate_model: false
+    model: shogunset/katana_sheath_cosmetics
+  displayname: "<White>Shogun Katana Sheath Cosmetics"
+  material: POTION
+  permission: shogun.katana_sheath_cosmetics
+shogun_cosmetics_katana_sheath_normal_2:
+  Pack:
+    custom_model_data: 7850004
+    generate_model: false
+    model: shogunset/katana_sheath_cosmetics_normal_2
+  displayname: "<White>Shogun Katana Sheath Cosmetics Normal 2"
+  material: POTION
+  permission: shogun.katana_sheath_cosmetics_normal_2
+shogun_cosmetics_katana_sheath_self:
+  Pack:
+    custom_model_data: 7850002
+    generate_model: false
+    model: shogunset/katana_sheath_cosmetics_self
+  displayname: "<White>Shogun Katana Sheath Cosmetics Self"
+  material: POTION
+  permission: shogun.katana_sheath_cosmetics_self
+shogun_cosmetics_katana_sheath_self_2:
+  Pack:
+    custom_model_data: 7850003
+    generate_model: false
+    model: shogunset/katana_sheath_cosmetics_self_2
+  displayname: "<White>Shogun Katana Sheath Cosmetics Self 2"
+  material: POTION
+  permission: shogun.katana_sheath_cosmetics_self_2

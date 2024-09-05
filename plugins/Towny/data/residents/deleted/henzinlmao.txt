@@ -1,0 +1,14 @@
+uuid=65cd28d2-42f3-3888-8eb6-839f9ba43cbf
+lastOnline=1724061431458
+registered=1723859133653
+joinedTownAt=1723864634542
+isNPC=false
+title=
+surname=
+town=𝙚𝙡𝙙𝙚𝙣_𝙧𝙞𝙣𝙜
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse
+metadata=

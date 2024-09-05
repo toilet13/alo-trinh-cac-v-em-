@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725424592758
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725528515069
+  login: 1725528441497
+money: '233229046.3951852000010061'
+logoutlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 1382.6273640186114
+  y: 124.0
+  z: -47.6875
+  yaw: -142.1705322265625
+  pitch: -6.149959087371826
+last-account-name: Henzinlmao
+lastlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 18.340674831205476
+  y: 63.0
+  z: -483.14311011227807
+  yaw: -143.24874877929688
+  pitch: 19.799978256225586
+past-usernames:
+- henzinlmao

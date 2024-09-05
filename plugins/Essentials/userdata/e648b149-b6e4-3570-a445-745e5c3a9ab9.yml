@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722757426307
+  login: 1722757426252
+money: '18595.70'
+last-account-name: DuyBrute
+logoutlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 10.590808208916549
+  y: 142.33705116649998
+  z: -711.3745898778192
+  yaw: 48.2720947265625
+  pitch: 28.439668655395508
+lastlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: -3566.764512775465
+  y: 62.52083457648765
+  z: 573.1015567611165
+  yaw: 105.46875
+  pitch: 38.000511169433594

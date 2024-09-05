@@ -1,0 +1,81 @@
+config:
+  plugin-active: true
+  random:
+    x:
+      low: -20000
+      high: 20000
+    z:
+      low: -20000
+      high: 20000
+  teleport-safety:
+    unsafe-materials:
+      __global:
+      - LAVA
+      - WATER
+      - MAGMA_BLOCK
+      - CAMPFIRE
+      - FIRE
+      - SWEET_BERRY_BUSH
+      - CACTUS
+    max-attempts: 5
+  time-thresholds:
+    load-disabled: 800
+    save-disabled: 800
+  blocked-commands:
+  - warp
+  - home
+  - spawn
+  - tp
+  - tppos
+  - tpa
+  - back
+behavior:
+  world:
+    __global:
+      arriving:
+        action: LASTLOCATION
+players:
+  26a40013-a3fa-3e11-b852-f5d56b5d1bd9:
+    last-location:
+      world:
+        ==: org.bukkit.Location
+        world: world
+        x: -22.930077883556134
+        y: 91.8231076263698
+        z: -508.21787121403355
+        pitch: 25.907045
+        yaw: 73.87858
+      lobby:
+        ==: org.bukkit.Location
+        world: lobby
+        x: -27.011498750159987
+        y: 97.25220334025373
+        z: -755.874753962138
+        pitch: 24.543512
+        yaw: 151.38054
+  65cd28d2-42f3-3888-8eb6-839f9ba43cbf:
+    last-location:
+      world:
+        ==: org.bukkit.Location
+        world: world
+        x: -5.7627948165231135
+        y: 71.73409999847412
+        z: -381.1576054224137
+        pitch: 25.811277
+        yaw: 43.426514
+      lobby:
+        ==: org.bukkit.Location
+        world: lobby
+        x: -28.82597877709356
+        y: 95.0
+        z: -754.6527816754299
+        pitch: 15.523546
+        yaw: -179.50647
+      world_the_end:
+        ==: org.bukkit.Location
+        world: world_the_end
+        x: 1.5
+        y: 63.0
+        z: 0.5
+        pitch: 0.0
+        yaw: 0.0

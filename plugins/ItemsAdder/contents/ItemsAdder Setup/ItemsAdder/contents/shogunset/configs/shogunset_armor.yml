@@ -1,0 +1,55 @@
+armors_rendering:
+  shogunarmor:
+    color: '#9b192a'
+    layer_1: armor/shogun_armor_layer_1
+    layer_2: armor/shogun_armor_layer_2
+    use_color: false
+info:
+  namespace: shogunset
+items:
+  shogunboots:
+    display_name: Shogun Boots
+    permission: shogun.boots
+    resource:
+      generate: true
+      textures:
+      - armor/shogun_boots_icon.png
+    specific_properties:
+      armor:
+        custom_armor: shogunarmor
+        slot: feet
+  shogunchestplate:
+    display_name: Shogun Chestplate
+    permission: shogun.chestplate
+    resource:
+      generate: true
+      textures:
+      - armor/shogun_chestplate_icon.png
+    specific_properties:
+      armor:
+        custom_armor: shogunarmor
+        slot: chest
+  shogunleggings:
+    display_name: Shogun Leggings
+    permission: shogun.leggings
+    resource:
+      generate: true
+      textures:
+      - armor/shogun_leggings_icon.png
+    specific_properties:
+      armor:
+        custom_armor: shogunarmor
+        slot: legs
+  shogunhelmet:
+    display_name: Shogun Helmet
+    permission: shogun.helmet
+    resource:
+      generate: true
+      textures:
+      - armor/shogun_helmet_icon.png
+    specific_properties:
+      armor:
+        custom_armor: shogunarmor
+        slot: head
+
+# 867PHBTS

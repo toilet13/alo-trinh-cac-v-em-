@@ -1,0 +1,8 @@
+data:
+  session: 5
+  dice1: 1
+  dice2: 5
+  dice3: 6
+  result: TAI
+  taiPlayers:
+    ThienLe: 1000

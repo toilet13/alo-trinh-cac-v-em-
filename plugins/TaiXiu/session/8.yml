@@ -1,0 +1,8 @@
+data:
+  session: 8
+  dice1: 4
+  dice2: 5
+  dice3: 3
+  result: TAI
+  taiPlayers:
+    henzinlmao: 1000000

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723867238947
+  login: 1723863975434
+money: '3495.260000000000003'
+logoutlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: -462.4725935205837
+  y: 115.0
+  z: -1095.9460477633643
+  yaw: 87.5126953125
+  pitch: 17.850269317626953
+last-account-name: ThienLe
+lastlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 583.0911155661527
+  y: 77.0
+  z: -1423.2808607948618
+  yaw: -26.3997802734375
+  pitch: 10.19997787475586

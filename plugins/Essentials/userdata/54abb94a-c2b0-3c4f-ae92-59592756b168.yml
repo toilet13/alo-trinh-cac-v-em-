@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723819645468
+  login: 1723816701234
+money: '0'
+last-account-name: Mos
+lastlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 5.009578586015914
+  y: 63.0
+  z: -492.6504371659766
+  yaw: 111.90008544921875
+  pitch: -12.450000762939453
+logoutlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 57.93839959194098
+  y: 63.796735600668704
+  z: -467.9470890790934
+  yaw: -74.40061950683594
+  pitch: 41.8499755859375

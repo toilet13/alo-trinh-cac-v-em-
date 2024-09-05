@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722588529483
+  login: 1722586647876
+money: '1020'
+last-account-name: Duckvncute3214
+lastlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: -232.8450182163814
+  y: 75.0
+  z: 180.35813260080215
+  yaw: -1.0012376308441162
+  pitch: 8.01760482788086
+logoutlocation:
+  world: 04f50e65-04e4-4f33-8e3a-d326312d0906
+  world-name: world_nether
+  x: 2.699999988079071
+  y: 13.0
+  z: -68.45904956269145
+  yaw: -72.68865966796875
+  pitch: 61.50006103515625

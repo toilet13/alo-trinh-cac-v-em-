@@ -1,0 +1,21 @@
+2024-08-22 12:58:18 [INFO]: Loading Overrides...
+2024-08-22 12:58:18 [INFO]: Loading World Types...
+2024-08-22 12:58:18 [INFO]: - World Type for 'world' set to 'NORMAL'
+2024-08-22 12:58:18 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2024-08-22 12:58:18 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2024-08-22 12:58:18 [INFO]: Loading Defaults...
+2024-08-22 12:58:18 [INFO]: Loading Custom Worlds...
+2024-08-22 12:58:18 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2024-08-22 12:58:18 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2024-08-22 12:58:23 [INFO]: Database COOLDOWN:world configured and loaded!
+2024-08-22 12:58:23 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2024-08-22 12:58:23 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2024-08-22 12:58:23 [INFO]: Database COOLDOWN:lobby configured and loaded!
+2024-08-22 12:58:23 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2024-08-22 12:58:23 [INFO]: Database PLAYERS:Players configured and loaded!
+2024-08-22 12:58:23 [INFO]: Database QUEUE:Queue configured and loaded!
+2024-08-22 12:58:24 [INFO]: Attempting to queue up some more safe locations...
+2024-08-22 12:58:24 [INFO]: Queueing paused, max queue limit reached!
+2024-08-22 12:58:56 [WARNING]: Seems like the world `lobby` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- lobby: NETHER`
+2024-08-22 12:58:56 [INFO]: -Removed a queue Location{world=CraftWorld{name=lobby},x=-535.5,y=62.0,z=-714.5,pitch=46.21769,yaw=-71.64241}
+2024-08-22 13:09:11 [INFO]: Disabling BetterRTP v3.6.13

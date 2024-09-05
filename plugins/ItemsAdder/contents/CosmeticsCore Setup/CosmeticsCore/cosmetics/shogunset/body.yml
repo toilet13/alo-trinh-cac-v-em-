@@ -1,0 +1,25 @@
+cosmetics:
+  shogunset_katana_sheath:
+    display_name: Shogun Katana Sheath
+    dye:
+      enabled: false
+    enabled: true
+    model:
+      gui: potion:7850001
+      normal: potion:7850001
+      normal_2: potion:7850004
+      self: potion:7850002
+      self_2: potion:7850003
+    type: BODY_ITEM
+  shogunset_flag_backpack:
+    display_name: Shogun Flag Backpack
+    dye:
+      enabled: false
+    enabled: true
+    model:
+      gui: potion:7850005
+      normal: potion:7850005
+      normal_2: potion:7850008
+      self: potion:7850006
+      self_2: potion:7850007
+    type: BODY_ITEM

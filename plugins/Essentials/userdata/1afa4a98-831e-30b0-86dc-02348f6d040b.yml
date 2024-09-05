@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723962276689
+  login: 1723962168554
+money: '904.16000000000001'
+last-account-name: mixaodua
+logoutlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: -517.4469328337711
+  y: 65.0
+  z: -235.69599794025962
+  yaw: 4.65185546875
+  pitch: 37.050148010253906
+lastlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 10.784168314641287
+  y: 63.0
+  z: -516.6634219688951
+  yaw: -93.001953125
+  pitch: -15.449951171875

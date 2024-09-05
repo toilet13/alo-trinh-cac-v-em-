@@ -1,0 +1,8 @@
+schematicsgui:
+  title: Schematics
+  items:
+    default: true
+    noneitem: none_item
+    nextpageitem: nextpage_item
+    previouspageitem: previouspage_item
+    bottomitem: bottom_item

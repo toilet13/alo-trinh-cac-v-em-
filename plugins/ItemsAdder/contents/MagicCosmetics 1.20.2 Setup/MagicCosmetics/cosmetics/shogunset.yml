@@ -1,0 +1,43 @@
+cosmetics:
+  shogunset_flag_backpack:
+    colored: false
+    height: 4
+    item:
+      color: '#ffffff'
+      display: '&fShogun Flag Backpack'
+      glow: false
+      hide-attributes: true
+      material: POTION
+      modeldata: 7850007
+      unbreakable: true
+    permission: cosmetics.shogunset_flag_backpack
+    space: 0
+    type: BAG
+  shogunset_head:
+    colored: false
+    height: 0
+    item:
+      color: '#ffffff'
+      display: '&fShogun Head'
+      glow: false
+      hide-attributes: true
+      material: POTION
+      modeldata: 7850000
+      unbreakable: true
+    permission: cosmetics.shogunset_head
+    space: 0
+    type: HAT
+  shogunset_katana_sheath:
+    colored: false
+    height: 4
+    item:
+      color: '#ffffff'
+      display: '&fShogun Katana Sheath'
+      glow: false
+      hide-attributes: true
+      material: POTION
+      modeldata: 7850003
+      unbreakable: true
+    permission: cosmetics.shogunset_katana_sheath
+    space: 0
+    type: BAG
