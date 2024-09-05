@@ -1,0 +1,14 @@
+uuid=26a40013-a3fa-3e11-b852-f5d56b5d1bd9
+lastOnline=1724816611019
+registered=1723859137349
+joinedTownAt=1723967523765
+isNPC=false
+title=
+surname=
+town=69_seeker
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse
+metadata=

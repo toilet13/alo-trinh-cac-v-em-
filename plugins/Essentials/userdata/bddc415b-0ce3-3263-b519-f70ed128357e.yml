@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722829647025
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725436085849
+  login: 1725431389492
+money: '1472739.65999999999995'
+last-account-name: White_skinss
+logoutlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: -242.22407485562098
+  y: 74.0
+  z: 167.0084092798742
+  yaw: -76.52786254882812
+  pitch: 7.200000286102295
+lastlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 129.2741581161913
+  y: 81.5
+  z: -81.20057011910843
+  yaw: -2.513664484024048
+  pitch: 53.70000457763672
+homes:
+  home:
+    world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+    world-name: world
+    x: -92.38354546323093
+    y: 69.0
+    z: 1.1730029927436205
+    yaw: 39.275787353515625
+    pitch: 3.4500489234924316

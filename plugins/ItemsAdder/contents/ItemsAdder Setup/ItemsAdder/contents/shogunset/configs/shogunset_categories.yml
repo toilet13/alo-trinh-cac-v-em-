@@ -1,0 +1,35 @@
+info:
+  namespace: shogunset
+categories:
+  shogunset:
+    enabled: true
+    skip_if_already: false
+    icon: "shogunset:shogun_katana_sheath"
+    name: Shogun Weapons & Tools Set
+    permission: shogunset.menu
+    items:
+      - "shogunset:shogunchestplate"
+      - "shogunset:shogunleggings"
+      - "shogunset:shogunboots"
+      - "shogunset:shogunhelmet"
+      - "shogunset:shogun_shield"
+      - "shogunset:shogun_sword"
+      - "shogunset:shogun_scythe"
+      - "shogunset:shogun_hammer"
+      - "shogunset:shogun_spear"
+      - "shogunset:shogun_staff"
+      - "shogunset:shogun_trident"
+      - "shogunset:shogun_tanto"
+      - "shogunset:shogun_flag_backpack"
+      - "shogunset:shogun_bow"
+      - "shogunset:shogun_crossbow"
+      - "shogunset:shogun_axe"
+      - "shogunset:shogun_hoe"
+      - "shogunset:shogun_pickaxe"
+      - "shogunset:shogun_shovel"
+      - "shogunset:shogun_fishing_rod"
+      - "shogunset:shogun_chest"
+      - "shogunset:shogun_key"
+      - "shogunset:shogun_head"
+      - "shogunset:shogun_katana_sheath"
+    

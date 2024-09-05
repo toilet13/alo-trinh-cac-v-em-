@@ -1,0 +1,844 @@
+[2024-07-22 04:05:19] - long191910 bought 1088 x Iron Trapdoor(Redstone.page1.items.33) for $7,411.20 with the buy stacks screen.
+[2024-07-22 04:06:32] - long191910 bought 1 x Zombified Piglin Spawner(Spawners.page1.items.37) for $120,000 with the buy screen.
+[2024-07-22 04:06:39] - cutngam bought 2 x Enchanted Book(Enchanting.page1.items.21) for $320 with the buy screen.
+[2024-07-22 04:08:49] - henzinlmao sold 4x Cooked Mutton(Food.page1.items.13) for $6.32 with the sell gui.
+[2024-07-22 04:09:26] - henzinlmao sold 1x Netherite Ingot(Ores.page1.items.20) for $591.91 with the sell gui.
+[2024-07-22 04:09:51] - cutngam bought 1 x Enchanted Book(Enchanting.page1.items.16) for $210 with the buy screen.
+[2024-07-22 04:10:46] - henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.31) for $972.41 with the buy stacks screen.
+[2024-07-22 04:10:48] - henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.31) for $972.41 with the buy stacks screen.
+[2024-07-22 04:11:25] - henzinlmao bought 17 x Enchanted Book(Enchanting.page1.items.21) for $2,720 with the buy screen.
+[2024-07-22 04:05:19] - long191910 bought 1088 x Iron Trapdoor(Redstone.page1.items.33) for $7,411.20 with the buy stacks screen.
+[2024-07-22 04:06:32] - long191910 bought 1 x Zombified Piglin Spawner(Spawners.page1.items.37) for $120,000 with the buy screen.
+[2024-07-22 04:06:39] - cutngam bought 2 x Enchanted Book(Enchanting.page1.items.21) for $320 with the buy screen.
+[2024-07-22 04:08:49] - henzinlmao sold 4x Cooked Mutton(Food.page1.items.13) for $6.32 with the sell gui.
+[2024-07-22 04:09:26] - henzinlmao sold 1x Netherite Ingot(Ores.page1.items.20) for $591.91 with the sell gui.
+[2024-07-22 04:09:51] - cutngam bought 1 x Enchanted Book(Enchanting.page1.items.16) for $210 with the buy screen.
+[2024-07-22 04:10:46] - henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.31) for $972.41 with the buy stacks screen.
+[2024-07-22 04:10:48] - henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.31) for $972.41 with the buy stacks screen.
+[2024-07-22 04:11:25] - henzinlmao bought 17 x Enchanted Book(Enchanting.page1.items.21) for $2,720 with the buy screen.
+[2024-07-22 04:14:35] - cutngam bought 3 x Enchanted Book(Enchanting.page1.items.21) for $480 with the buy screen.
+[2024-07-22 04:05:19] - long191910 bought 1088 x Iron Trapdoor(Redstone.page1.items.33) for $7,411.20 with the buy stacks screen.
+[2024-07-22 04:06:32] - long191910 bought 1 x Zombified Piglin Spawner(Spawners.page1.items.37) for $120,000 with the buy screen.
+[2024-07-22 04:06:39] - cutngam bought 2 x Enchanted Book(Enchanting.page1.items.21) for $320 with the buy screen.
+[2024-07-22 04:08:49] - henzinlmao sold 4x Cooked Mutton(Food.page1.items.13) for $6.32 with the sell gui.
+[2024-07-22 04:09:26] - henzinlmao sold 1x Netherite Ingot(Ores.page1.items.20) for $591.91 with the sell gui.
+[2024-07-22 04:09:51] - cutngam bought 1 x Enchanted Book(Enchanting.page1.items.16) for $210 with the buy screen.
+[2024-07-22 04:10:46] - henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.31) for $972.41 with the buy stacks screen.
+[2024-07-22 04:10:48] - henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.31) for $972.41 with the buy stacks screen.
+[2024-07-22 04:11:25] - henzinlmao bought 17 x Enchanted Book(Enchanting.page1.items.21) for $2,720 with the buy screen.
+[2024-07-22 04:14:35] - cutngam bought 3 x Enchanted Book(Enchanting.page1.items.21) for $480 with the buy screen.
+[2024-07-22 04:15:24] - cutngam bought 3 x Totem Of Undying(Miscellaneous.page1.items.36) for $300 with the buy screen.
+[2024-07-22 04:19:04] - henzinlmao sold 1x Enchanted Book(Enchanting.page1.items.21) for $5,000 with the sell gui.
+[2024-07-22 04:19:40] - henzinlmao sold 15x Enchanted Book(Enchanting.page1.items.21) for $75,000 with the sell gui.
+[2024-07-22 04:22:23] - henzinlmao bought 64 x Firework Rocket(Z_EverythingElse.page4.items.171) for $350.08 with the buy screen.
+[2024-07-22 04:22:25] - henzinlmao bought 64 x Firework Rocket(Z_EverythingElse.page4.items.171) for $350.08 with the buy screen.
+[2024-07-22 04:22:26] - henzinlmao bought 64 x Firework Rocket(Z_EverythingElse.page4.items.171) for $350.08 with the buy screen.
+[2024-07-22 04:22:26] - henzinlmao bought 64 x Firework Rocket(Z_EverythingElse.page4.items.171) for $350.08 with the buy screen.
+[2024-07-22 04:24:52] - cutngam sold 1 x Enchanted Book(Enchanting.page1.items.21) for $5,000 with the sell screen.
+[2024-07-22 04:24:54] - henzinlmao sold 3x Netherite Ingot(Ores.page1.items.20) for $1,775.73 with the sell gui.
+[2024-07-22 04:25:51] - long191910 bought 1 x [Sniffer Spawner](Spawners.page1.items.30) for $999,999,999 with the buy screen.
+[2024-07-22 04:28:04] - henzinlmao bought 64 x Cooked Beef(Food.page1.items.11) for $403.20 with the buy screen.
+[2024-07-22 04:31:33] - henzinlmao sold 25x Blackstone(Blocks.page1.items.33), 768x Netherrack(Blocks.page3.items.125), 2x Cobblestone(Blocks.page2.items.54) for $43.49 with the sell gui.
+[2024-07-22 04:31:45] - henzinlmao sold 7x Ancient Debris(Ores.page1.items.3) for $925.75 with the sell gui.
+[2024-07-22 04:37:06] - henzinlmao bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-07-22 04:37:06] - henzinlmao bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-07-22 04:37:06] - henzinlmao bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-07-22 04:37:06] - henzinlmao bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-07-22 04:37:06] - henzinlmao bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-07-22 04:37:07] - henzinlmao bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-07-22 04:37:07] - henzinlmao bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-07-22 04:37:07] - henzinlmao bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-07-22 04:37:07] - henzinlmao bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-07-22 04:37:07] - henzinlmao bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-07-22 04:37:08] - henzinlmao bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-07-22 04:37:08] - henzinlmao bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-07-22 04:37:08] - henzinlmao bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-07-22 04:39:27] - henzinlmao bought 1 x Elytra(Miscellaneous.page1.items.8) for $2,415.20 with the buy screen.
+[2024-07-22 04:47:01] - ThienLe bought 1 x Diamond Ore(Z_EverythingElse.page4.items.146) for $1,000 with the buy screen.
+[2024-07-22 04:47:01] - ThienLe bought 1 x Diamond Ore(Z_EverythingElse.page4.items.146) for $1,000 with the buy screen.
+[2024-07-22 04:52:00] - henzinlmao bought 4 x White Carpet(Z_EverythingElse.page11.items.463) for $82.32 with the buy screen.
+[2024-07-22 04:53:33] - ThienLe bought 33 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $6,600 with the buy screen.
+[2024-07-22 04:53:34] - ThienLe bought 33 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $6,600 with the buy screen.
+[2024-07-22 05:05:01] - ThienLe sold 66 x Diamond(Ores.page1.items.9) for $866.58 with the sell screen.
+[2024-07-22 05:05:40] - ThienLe bought 1 x Enchanted Book(Enchanting.page1.items.12) for $705.60 with the buy screen.
+[2024-07-22 05:07:25] - ThienLe bought 33 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $6,600 with the buy screen.
+[2024-07-22 05:07:25] - ThienLe bought 33 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $6,600 with the buy screen.
+[2024-07-22 05:07:25] - ThienLe bought 33 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $6,600 with the buy screen.
+[2024-07-22 05:07:25] - ThienLe bought 33 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $6,600 with the buy screen.
+[2024-07-22 05:07:25] - ThienLe bought 33 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $6,600 with the buy screen.
+[2024-07-22 05:08:35] - ThienLe sold 134 x Diamond(Ores.page1.items.9) for $1,759.42 with the sell screen.
+[2024-07-22 05:09:32] - ThienLe sold 139 x Diamond(Ores.page1.items.9) for $1,825.07 with the sell screen.
+[2024-07-22 05:11:58] - henzinlmao bought 17 x Ender Pearl(Mobs.page1.items.5) for $119 with the buy screen.
+[2024-07-22 05:12:14] - ThienLe bought 1 x Red Shulker Box(Z_EverythingElse.page9.items.384) for $26.75 with the buy screen.
+[2024-07-22 05:12:23] - henzinlmao bought 1 x Bamboo Trapdoor(Blocks.page1.items.31) for $1.57 with the buy screen.
+[2024-07-22 05:13:35] - ThienLe bought 64 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $12,800 with the buy screen.
+[2024-07-22 05:13:37] - henzinlmao bought 1 x Axolotl Bucket(Miscellaneous.page1.items.2) for $19.47 with the buy screen.
+[2024-07-22 05:14:57] - ThienLe sold 227 x Diamond(Ores.page1.items.9) for $2,980.51 with the sell screen.
+[2024-07-22 05:15:26] - ThienLe bought 1 x Enchanted Book(Enchanting.page1.items.21) for $10,000 with the buy screen.
+[2024-07-22 05:16:10] - ThienLe bought 16 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $3,200 with the buy screen.
+[2024-07-22 05:16:16] - ThienLe bought 1 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $200 with the buy screen.
+[2024-07-22 05:16:17] - ThienLe bought 1 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $200 with the buy screen.
+[2024-07-22 05:16:17] - ThienLe bought 1 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $200 with the buy screen.
+[2024-07-22 05:16:17] - ThienLe bought 1 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $200 with the buy screen.
+[2024-07-22 05:16:17] - ThienLe bought 1 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $200 with the buy screen.
+[2024-07-22 05:16:17] - ThienLe bought 1 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $200 with the buy screen.
+[2024-07-22 05:16:17] - ThienLe bought 1 x Deepslate Diamond Ore(Z_EverythingElse.page3.items.131) for $200 with the buy screen.
+[2024-07-22 05:16:42] - ThienLe sold 82 x Diamond(Ores.page1.items.9) for $1,076.66 with the sell screen.
+[2024-07-22 05:17:49] - henzinlmao bought 1 x Rail(Z_EverythingElse.page9.items.370) for $2.21 with the buy screen.
+[2024-07-22 05:17:59] - henzinlmao bought 1 x Minecart(Z_EverythingElse.page7.items.287) for $28.95 with the buy screen.
+[2024-07-22 05:29:29] - ThienLe sold 88 x Cobblestone(Blocks.page2.items.54) for $14.96 with the sell screen.
+[2024-07-22 05:34:36] - long191910 bought 64 x [Zombie Spawner](Spawners.page1.items.36) for $7,680,000 with the buy screen.
+[2024-07-22 05:41:17] - ThienLe sold 192 x Tuff(Blocks.page1.items.13) for $96 with the sell screen.
+[2024-07-22 05:43:58] - henzinlmao bought 17 x Obsidian(Blocks.page3.items.133) for $531.25 with the buy screen.
+[2024-07-22 05:44:31] - henzinlmao bought 64 x Scaffolding(Miscellaneous.page1.items.28) for $85.12 with the buy screen.
+[2024-07-22 05:44:37] - henzinlmao bought 32 x Scaffolding(Miscellaneous.page1.items.28) for $42.56 with the buy screen.
+[2024-07-22 05:45:06] - ThienLe bought 1 x Stonecutter(Workstations.page1.items.12) for $8.04 with the buy screen.
+[2024-07-22 05:46:16] - henzinlmao bought 1 x Flint And Steel(Z_EverythingElse.page4.items.175) for $7.89 with the buy screen.
+[2024-07-22 05:46:42] - ThienLe sold 458 x Deepslate Tile Wall(Z_EverythingElse.page4.items.137) for $96.17 with the sell screen.
+[2024-07-22 05:51:01] - henzinlmao bought 17 x Glass(Blocks.page3.items.112) for $107.10 with the buy screen.
+[2024-07-22 05:55:16] - henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-07-22 05:56:09] - henzinlmao bought 4 x Chest(Z_EverythingElse.page2.items.67) for $37.08 with the buy screen.
+[2024-07-22 06:00:00] - henzinlmao bought 8 x Hopper(Redstone.page1.items.5) for $309.36 with the buy screen.
+[2024-07-22 06:04:01] - ThienLe sold 146 x Polished Blackstone Brick Wall(Z_EverythingElse.page8.items.341) for $29.20 with the sell screen.
+[2024-07-22 06:04:07] - ThienLe sold 208 x Polished Basalt(Z_EverythingElse.page8.items.340) for $2,184 with the sell screen.
+[2024-07-22 06:06:06] - henzinlmao bought 17 x Dark Oak Trapdoor(Z_EverythingElse.page3.items.123) for $59.16 with the buy screen.
+[2024-07-22 06:08:04] - henzinlmao bought 33 x Blackstone Wall(Z_EverythingElse.page1.items.31) for $26.07 with the buy screen.
+[2024-07-22 06:15:32] - henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-07-22 06:15:50] - henzinlmao bought 64 x Blackstone Wall(Z_EverythingElse.page1.items.31) for $50.56 with the buy screen.
+[2024-07-22 06:26:57] - henzinlmao bought 1 x Jungle Sign(Decoration.page3.items.94) for $2.52 with the buy screen.
+[2024-07-22 06:26:59] - henzinlmao bought 1 x Jungle Sign(Decoration.page3.items.94) for $2.52 with the buy screen.
+[2024-07-22 06:29:39] - henzinlmao bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for $18.40 with the buy screen.
+[2024-07-22 06:29:41] - henzinlmao bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for $18.40 with the buy screen.
+[2024-07-22 06:29:52] - long191910 bought 1 x Trident(Miscellaneous.page1.items.37) for $180 with the buy screen.
+[2024-07-22 06:30:29] - henzinlmao bought 64 x Blackstone Wall(Z_EverythingElse.page1.items.31) for $50.56 with the buy screen.
+[2024-07-22 06:32:12] - cutngam sold 1 x Netherite Block(Ores.page1.items.19) for $5,593.50 with the sell screen.
+[2024-07-22 06:34:29] - cutngam bought 17 x Experience Bottle(Miscellaneous.page1.items.11) for $1,834.98 with the buy screen.
+[2024-07-22 06:35:26] - ThienLe bought 1 x Totem Of Undying(Miscellaneous.page1.items.36) for $100 with the buy screen.
+[2024-07-22 06:35:58] - henzinlmao bought 1 x Polished Blackstone Button(Z_EverythingElse.page8.items.342) for $0.83 with the buy screen.
+[2024-07-22 06:36:42] - ThienLe bought 1 x Enchanted Book(Enchanting.page1.items.38) for $441 with the buy screen.
+[2024-07-22 06:36:54] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:36:54] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:36:54] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:36:55] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:36:55] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:36:55] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:36:55] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:38:18] - cutngam sold 1 x Netherite Block(Ores.page1.items.19) for $5,593.50 with the sell screen.
+[2024-07-22 06:39:57] - ThienLe bought 64 x Oak Leaves(Decoration.page2.items.61) for $192 with the buy screen.
+[2024-07-22 06:39:57] - ThienLe bought 64 x Oak Leaves(Decoration.page2.items.61) for $192 with the buy screen.
+[2024-07-22 06:39:58] - ThienLe bought 64 x Oak Leaves(Decoration.page2.items.61) for $192 with the buy screen.
+[2024-07-22 06:39:58] - ThienLe bought 64 x Oak Leaves(Decoration.page2.items.61) for $192 with the buy screen.
+[2024-07-22 06:39:59] - ThienLe bought 64 x Oak Leaves(Decoration.page2.items.61) for $192 with the buy screen.
+[2024-07-22 06:40:14] - ThienLe bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-07-22 06:40:14] - ThienLe bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-07-22 06:40:21] - ThienLe bought 64 x End Stone(Blocks.page3.items.108) for $320 with the buy screen.
+[2024-07-22 06:40:40] - cutngam bought 1 x Enchanted Book(Enchanting.page1.items.16) for $210 with the buy screen.
+[2024-07-22 06:42:43] - cutngam bought 17 x Experience Bottle(Miscellaneous.page1.items.11) for $1,834.98 with the buy screen.
+[2024-07-22 06:46:09] - cutngam bought 1 x Enchanted Book(Enchanting.page1.items.38) for $441 with the buy screen.
+[2024-07-22 06:46:51] - cutngam bought 17 x Experience Bottle(Miscellaneous.page1.items.11) for $1,834.98 with the buy screen.
+[2024-07-22 06:54:18] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 06:54:18] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 06:54:45] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:46] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:46] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:46] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:46] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:46] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:47] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:47] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:47] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:47] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:48] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:48] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:49] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:26:57] - henzinlmao bought 1 x Jungle Sign(Decoration.page3.items.94) for $2.52 with the buy screen.
+[2024-07-22 06:26:59] - henzinlmao bought 1 x Jungle Sign(Decoration.page3.items.94) for $2.52 with the buy screen.
+[2024-07-22 06:29:39] - henzinlmao bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for $18.40 with the buy screen.
+[2024-07-22 06:29:41] - henzinlmao bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for $18.40 with the buy screen.
+[2024-07-22 06:29:52] - long191910 bought 1 x Trident(Miscellaneous.page1.items.37) for $180 with the buy screen.
+[2024-07-22 06:30:29] - henzinlmao bought 64 x Blackstone Wall(Z_EverythingElse.page1.items.31) for $50.56 with the buy screen.
+[2024-07-22 06:32:12] - cutngam sold 1 x Netherite Block(Ores.page1.items.19) for $5,593.50 with the sell screen.
+[2024-07-22 06:34:29] - cutngam bought 17 x Experience Bottle(Miscellaneous.page1.items.11) for $1,834.98 with the buy screen.
+[2024-07-22 06:35:26] - ThienLe bought 1 x Totem Of Undying(Miscellaneous.page1.items.36) for $100 with the buy screen.
+[2024-07-22 06:35:58] - henzinlmao bought 1 x Polished Blackstone Button(Z_EverythingElse.page8.items.342) for $0.83 with the buy screen.
+[2024-07-22 06:36:42] - ThienLe bought 1 x Enchanted Book(Enchanting.page1.items.38) for $441 with the buy screen.
+[2024-07-22 06:36:54] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:36:54] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:36:54] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:36:55] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:36:55] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:36:55] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:36:55] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:38:18] - cutngam sold 1 x Netherite Block(Ores.page1.items.19) for $5,593.50 with the sell screen.
+[2024-07-22 06:39:57] - ThienLe bought 64 x Oak Leaves(Decoration.page2.items.61) for $192 with the buy screen.
+[2024-07-22 06:39:57] - ThienLe bought 64 x Oak Leaves(Decoration.page2.items.61) for $192 with the buy screen.
+[2024-07-22 06:39:58] - ThienLe bought 64 x Oak Leaves(Decoration.page2.items.61) for $192 with the buy screen.
+[2024-07-22 06:39:58] - ThienLe bought 64 x Oak Leaves(Decoration.page2.items.61) for $192 with the buy screen.
+[2024-07-22 06:39:59] - ThienLe bought 64 x Oak Leaves(Decoration.page2.items.61) for $192 with the buy screen.
+[2024-07-22 06:40:14] - ThienLe bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-07-22 06:40:14] - ThienLe bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-07-22 06:40:21] - ThienLe bought 64 x End Stone(Blocks.page3.items.108) for $320 with the buy screen.
+[2024-07-22 06:40:40] - cutngam bought 1 x Enchanted Book(Enchanting.page1.items.16) for $210 with the buy screen.
+[2024-07-22 06:42:43] - cutngam bought 17 x Experience Bottle(Miscellaneous.page1.items.11) for $1,834.98 with the buy screen.
+[2024-07-22 06:46:09] - cutngam bought 1 x Enchanted Book(Enchanting.page1.items.38) for $441 with the buy screen.
+[2024-07-22 06:46:51] - cutngam bought 17 x Experience Bottle(Miscellaneous.page1.items.11) for $1,834.98 with the buy screen.
+[2024-07-22 06:54:18] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 06:54:18] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 06:54:45] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:46] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:46] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:46] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:46] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:46] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:47] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:47] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:47] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:47] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:48] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:48] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:54:49] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $2,152.32 with the buy screen.
+[2024-07-22 06:56:01] - long191910 bought 1 x Goat Horn(Music.page1.items.24) for $100 with the buy screen.
+[2024-07-22 06:56:01] - henzinlmao sold 64x Magma Block(Blocks.page1.items.5) for $538.24 with the sell gui.
+[2024-07-22 07:11:18] - henzinlmao sold 6x Rotten Flesh(Mobs.page1.items.15), 9x Crimson Fungus(Farming.page1.items.12), 4x Gold Nugget(Z_EverythingElse.page5.items.181), 7x Weeping Vines(Decoration.page3.items.106), 3x Netherite Scrap(Z_EverythingElse.page7.items.309), 65x Crimson Roots(Z_EverythingElse.page3.items.98) for $530.20 with the sell gui.
+[2024-07-22 07:15:55] - henzinlmao sold 64x Crimson Roots(Z_EverythingElse.page3.items.98) for $80 with the sell gui.
+[2024-07-22 07:16:07] - henzinlmao sold 18x Crimson Fungus(Farming.page1.items.12), 8x Warped Fungus(Farming.page1.items.27) for $347 with the sell gui.
+[2024-07-22 07:20:26] - henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-07-22 07:22:13] - henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.21) for $10,000 with the buy screen.
+[2024-07-22 07:23:15] - henzinlmao sold 1x Bucket(Z_EverythingElse.page2.items.59), 256x Netherrack(Blocks.page3.items.125), 3x Obsidian(Blocks.page3.items.133), 1x Bamboo Trapdoor(Blocks.page1.items.31), 9x Sandstone(Blocks.page4.items.151), 47x Crimson Roots(Z_EverythingElse.page3.items.98), 2x Nether Wart Block(Z_EverythingElse.page7.items.301), 1x Crimson Stem(Blocks.page5.items.184), 56x Polished Blackstone Bricks(Blocks.page1.items.37), 7x Rotten Flesh(Mobs.page1.items.15), 4x Warped Fungus(Farming.page1.items.27), 13x Granite(Blocks.page3.items.115), 1x Arrow(Mobs.page1.items.1), 16x Clay Ball(Z_EverythingElse.page2.items.76), 46x Sand(Blocks.page4.items.150) for $413.54 with the sell gui.
+[2024-07-22 07:23:41] - henzinlmao sold 1x Bucket(Z_EverythingElse.page2.items.59), 64x Gold Nugget(Z_EverythingElse.page5.items.181), 10x Weeping Vines(Decoration.page3.items.106) for $32.79 with the sell gui.
+[2024-07-22 07:27:13] - ThienLe bought 1 x Chest Minecart(Z_EverythingElse.page2.items.68) for $40.12 with the buy screen.
+[2024-07-22 08:08:48] - ThienLe bought 1 x Detector Rail(Z_EverythingElse.page4.items.138) for $6.67 with the buy screen.
+[2024-07-22 08:08:52] - ThienLe bought 1 x Detector Rail(Z_EverythingElse.page4.items.138) for $6.67 with the buy screen.
+[2024-07-22 08:09:23] - ThienLe bought 1 x Name Tag(Miscellaneous.page1.items.21) for $100 with the buy screen.
+[2024-07-22 08:09:25] - henzinlmao bought 1 x Elytra(Miscellaneous.page1.items.8) for $2,415.20 with the buy screen.
+[2024-07-22 08:18:55] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $1,312.64 with the buy screen.
+[2024-07-22 08:18:56] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $1,312.64 with the buy screen.
+[2024-07-22 08:18:57] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $1,312.64 with the buy screen.
+[2024-07-22 08:20:54] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:20:54] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:20:54] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:20:54] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:20:55] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:26:30] - ThienLe sold 36 x Ender Pearl(Mobs.page1.items.5) for $63 with the sell screen.
+[2024-07-22 08:33:41] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:33:41] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:33:41] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:33:41] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:33:42] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:33:42] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:40:19] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:40:20] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:40:20] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:45:50] - henzinlmao bought 1 x Diamond Axe(Z_EverythingElse.page4.items.139) for $166.60 with the buy screen.
+[2024-07-22 08:46:33] - ThienLe sold 99 x Chorus Fruit(Farming.page1.items.10) for $74.25 with the sell screen.
+[2024-07-22 08:46:48] - ThienLe bought 1 x Nether Wart(Farming.page1.items.19) for $230 with the buy screen.
+[2024-07-22 08:47:34] - henzinlmao bought 1 x Redstone Block(Ores.page1.items.24) for $33.08 with the buy screen.
+[2024-07-22 08:47:41] - henzinlmao bought 1 x Redstone Block(Ores.page1.items.24) for $33.08 with the buy screen.
+[2024-07-22 08:49:01] - henzinlmao bought 1 x Turtle Egg(Miscellaneous.page1.items.39) for $15 with the buy screen.
+[2024-07-22 08:50:18] - henzinlmao bought 64 x Iron Ingot(Ores.page1.items.16) for $353.28 with the buy screen.
+[2024-07-22 08:54:51] - henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-07-22 08:57:50] - henzinlmao bought 1 x Dark Oak Door(Z_EverythingElse.page3.items.119) for $2.32 with the buy screen.
+[2024-07-22 09:03:19] - henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.32) for $200 with the buy screen.
+[2024-07-22 09:03:36] - henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.12) for $705.60 with the buy screen.
+[2024-07-22 09:04:24] - henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.12) for $705.60 with the buy screen.
+[2024-07-22 09:08:58] - ThienLe bought 1 x Blaze Rod(Mobs.page1.items.3) for $5 with the buy screen.
+[2024-07-22 09:08:58] - ThienLe bought 1 x Blaze Rod(Mobs.page1.items.3) for $5 with the buy screen.
+[2024-07-22 09:08:59] - ThienLe bought 1 x Blaze Rod(Mobs.page1.items.3) for $5 with the buy screen.
+[2024-07-22 09:09:16] - ThienLe bought 1 x Brewing Stand(Workstations.page1.items.3) for $7.40 with the buy screen.
+[2024-07-22 08:08:48] - ThienLe bought 1 x Detector Rail(Z_EverythingElse.page4.items.138) for $6.67 with the buy screen.
+[2024-07-22 08:08:52] - ThienLe bought 1 x Detector Rail(Z_EverythingElse.page4.items.138) for $6.67 with the buy screen.
+[2024-07-22 08:09:23] - ThienLe bought 1 x Name Tag(Miscellaneous.page1.items.21) for $100 with the buy screen.
+[2024-07-22 08:09:25] - henzinlmao bought 1 x Elytra(Miscellaneous.page1.items.8) for $2,415.20 with the buy screen.
+[2024-07-22 08:18:55] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $1,312.64 with the buy screen.
+[2024-07-22 08:18:56] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $1,312.64 with the buy screen.
+[2024-07-22 08:18:57] - henzinlmao bought 64 x Magma Block(Blocks.page1.items.5) for $1,312.64 with the buy screen.
+[2024-07-22 08:20:54] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:20:54] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:20:54] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:20:54] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:20:55] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:26:30] - ThienLe sold 36 x Ender Pearl(Mobs.page1.items.5) for $63 with the sell screen.
+[2024-07-22 08:33:41] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:33:41] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:33:41] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:33:41] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:33:42] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:33:42] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:40:19] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:40:20] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:40:20] - henzinlmao bought 64 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $25.60 with the buy screen.
+[2024-07-22 08:45:50] - henzinlmao bought 1 x Diamond Axe(Z_EverythingElse.page4.items.139) for $166.60 with the buy screen.
+[2024-07-22 08:46:33] - ThienLe sold 99 x Chorus Fruit(Farming.page1.items.10) for $74.25 with the sell screen.
+[2024-07-22 08:46:48] - ThienLe bought 1 x Nether Wart(Farming.page1.items.19) for $230 with the buy screen.
+[2024-07-22 08:47:34] - henzinlmao bought 1 x Redstone Block(Ores.page1.items.24) for $33.08 with the buy screen.
+[2024-07-22 08:47:41] - henzinlmao bought 1 x Redstone Block(Ores.page1.items.24) for $33.08 with the buy screen.
+[2024-07-22 08:49:01] - henzinlmao bought 1 x Turtle Egg(Miscellaneous.page1.items.39) for $15 with the buy screen.
+[2024-07-22 08:50:18] - henzinlmao bought 64 x Iron Ingot(Ores.page1.items.16) for $353.28 with the buy screen.
+[2024-07-22 08:54:51] - henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-07-22 08:57:50] - henzinlmao bought 1 x Dark Oak Door(Z_EverythingElse.page3.items.119) for $2.32 with the buy screen.
+[2024-07-22 09:03:19] - henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.32) for $200 with the buy screen.
+[2024-07-22 09:03:36] - henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.12) for $705.60 with the buy screen.
+[2024-07-22 09:04:24] - henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.12) for $705.60 with the buy screen.
+[2024-07-22 09:08:58] - ThienLe bought 1 x Blaze Rod(Mobs.page1.items.3) for $5 with the buy screen.
+[2024-07-22 09:08:58] - ThienLe bought 1 x Blaze Rod(Mobs.page1.items.3) for $5 with the buy screen.
+[2024-07-22 09:08:59] - ThienLe bought 1 x Blaze Rod(Mobs.page1.items.3) for $5 with the buy screen.
+[2024-07-22 09:09:16] - ThienLe bought 1 x Brewing Stand(Workstations.page1.items.3) for $7.40 with the buy screen.
+[2024-07-22 09:12:24] - long191910 bought 1 x Bundle(Z_EverythingElse.page2.items.60) for $65.10 with the buy screen.
+[2024-07-22 09:14:50] - henzinlmao bought 4 x Tnt(Blocks.page1.items.12) for $426.32 with the buy screen.
+[2024-07-22 09:15:38] - henzinlmao bought 2 x Piston(Redstone.page1.items.22) for $31.60 with the buy screen.
+[2024-07-22 09:15:56] - henzinlmao bought 1 x Lever(Redstone.page1.items.8) for $1.33 with the buy screen.
+[2024-07-22 09:16:21] - henzinlmao bought 1 x Birch Trapdoor(Z_EverythingElse.page1.items.19) for $3.48 with the buy screen.
+[2024-07-22 09:16:40] - henzinlmao bought 1 x Obsidian(Blocks.page3.items.133) for $31.25 with the buy screen.
+[2024-07-22 09:19:12] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:19:14] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:19:19] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:19:19] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:19:19] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:19:19] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:19:19] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:21:45] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:21:46] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:21:46] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:21:46] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:21:46] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:21:46] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:21:47] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:21:47] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-22 09:21:47] - henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-07-29 06:35:46] - henzinlmao bought 1 x Flint And Steel(Z_EverythingElse.page4.items.175) for $7.89 with the buy screen.
+[2024-07-29 06:56:24] - henzinlmao bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-07-29 06:56:37] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-29 06:56:38] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-29 06:56:38] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-29 06:56:38] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-29 07:03:25] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-29 07:03:25] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-29 07:03:27] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-29 07:04:46] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-29 07:04:46] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-29 07:04:46] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-29 07:06:58] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-29 07:06:58] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-07-29 07:07:01] - henzinlmao bought 32 x Glass(Blocks.page3.items.112) for $201.60 with the buy screen.
+[2024-07-30 14:10:44] - henzinlmao bought 1 x Black Stained Glass Pane(Z_EverythingElse.page1.items.27) for $2.88 with the buy screen.
+[2024-08-02 04:20:14] - vunghichngom sold 37x Raw Copper(Z_EverythingElse.page9.items.371), 7x Wheat Seeds(Farming.page1.items.29), 4x Rotten Flesh(Mobs.page1.items.15), 2x Leather(Farming.page1.items.15) for $99.94 with the sell gui.
+[2024-08-02 04:20:41] - vunghichngom bought 1 x Soul Sand(Blocks.page1.items.10) for $10 with the buy screen.
+[2024-08-02 04:28:36] - vunghichngom bought 1 x Bucket(Z_EverythingElse.page2.items.59) for $17.37 with the buy screen.
+[2024-08-02 04:34:14] - vunghichngom sold 9x Dandelion(Z_EverythingElse.page3.items.117), 8x Wheat Seeds(Farming.page1.items.29), 1x Cod(Z_EverythingElse.page2.items.83), 2x Spider Eye(Mobs.page1.items.17), 1x Stick(Z_EverythingElse.page10.items.416), 8x String(Mobs.page1.items.18), 1x Oak Log(Blocks.page5.items.206) for $102.15 with the sell gui.
+[2024-08-02 04:36:03] - vunghichngom bought 1 x Magma Block(Blocks.page1.items.5) for $20.51 with the buy screen.
+[2024-08-02 05:30:29] - vunghichngom bought 64 x Coal(Ores.page1.items.4) for $336 with the buy screen.
+[2024-08-02 05:35:42] - vunghichngom bought 3 x Glass(Blocks.page3.items.112) for $18.90 with the buy screen.
+[2024-08-02 05:37:04] - vunghichngom sold 17x Tuff(Blocks.page1.items.13), 21x Andesite(Blocks.page1.items.15), 9x Gravel(Blocks.page3.items.104), 22x Cobbled Deepslate(Blocks.page2.items.89), 39x Dirt(Blocks.page3.items.102), 92x Cobblestone(Blocks.page2.items.54) for $78.91 with the sell gui.
+[2024-08-02 05:38:22] - vunghichngom bought 2 x Repeater(Redstone.page1.items.18) for $29.84 with the buy screen.
+[2024-08-02 05:38:34] - vunghichngom bought 4 x Redstone(Ores.page1.items.23) for $14 with the buy screen.
+[2024-08-02 05:39:42] - Duckvncute3214 bought 2368 x Spruce Log(Blocks.page5.items.211) for $192 with the buy stacks screen.
+[2024-08-02 05:39:50] - vunghichngom bought 1 x Redstone Torch(Redstone.page1.items.13) for $4.29 with the buy screen.
+[2024-08-02 05:39:58] - vunghichngom bought 1 x Redstone(Ores.page1.items.23) for $3.50 with the buy screen.
+[2024-08-02 05:41:13] - vunghichngom bought 1 x Sticky Piston(Redstone.page1.items.23) for $21.84 with the buy screen.
+[2024-08-02 05:41:16] - vunghichngom bought 1 x Observer(Redstone.page1.items.11) for $20.32 with the buy screen.
+[2024-08-02 05:56:18] - Duckvncute3214 bought 64 x Spruce Log(Blocks.page5.items.211) for $192 with the buy screen.
+[2024-08-02 06:14:19] - vunghichngom bought 8 x Obsidian(Blocks.page3.items.133) for $250 with the buy screen.
+[2024-08-02 06:15:27] - vunghichngom bought 2 x Obsidian(Blocks.page3.items.133) for $62.50 with the buy screen.
+[2024-08-02 06:19:59] - vunghichngom sold 64x Cobblestone Stairs(Z_EverythingElse.page2.items.81), 119x Cobblestone(Blocks.page2.items.54) for $31.75 with the sell gui.
+[2024-08-02 06:41:52] - vunghichngom bought 2 x Repeater(Redstone.page1.items.18) for $29.84 with the buy screen.
+[2024-08-02 06:42:09] - vunghichngom bought 5 x Redstone(Ores.page1.items.23) for $17.50 with the buy screen.
+[2024-08-02 06:58:16] - White_skinss bought 4 x Blue Shulker Box(Z_EverythingElse.page1.items.38) for $107 with the buy screen.
+[2024-08-02 06:59:37] - White_skinss bought 128 x Obsidian(Blocks.page3.items.133) for $4,000 with the buy stacks screen.
+[2024-08-02 07:07:24] - White_skinss bought 16 x Blue Shulker Box(Z_EverythingElse.page1.items.38) for $428 with the buy stacks screen.
+[2024-08-02 07:08:27] - White_skinss sold 11 x Blue Shulker Box(Z_EverythingElse.page1.items.38) for $73.58 with the sell screen.
+[2024-08-16 10:15:04] - henzinlmao bought 1 x Diamond Hoe(Z_EverythingElse.page4.items.143) for $111.47 with the buy screen.
+[2024-08-16 12:41:56] - henzinlmao bought 1 x Oak Planks(Blocks.page5.items.207) for $1.11 with the buy screen.
+[2024-08-16 12:42:13] - henzinlmao bought 64 x Glow Item Frame(Z_EverythingElse.page4.items.180) for $3,067.52 with the buy screen.
+[2024-08-16 13:06:22] - henzinlmao bought 1 x Wooden Sword(Z_EverythingElse.page11.items.477) for $3.54 with the buy screen.
+[2024-08-16 13:10:50] - henzinlmao bought 1 x Wooden Pickaxe(Z_EverythingElse.page11.items.475) for $4.69 with the buy screen.
+[2024-08-16 13:28:41] - henzinlmao bought 1088 x Iron Ingot(Ores.page1.items.16) for $6,005.75 with the buy stacks screen.
+[2024-08-16 13:28:42] - henzinlmao bought 1088 x Iron Ingot(Ores.page1.items.16) for $3,886.08 with the buy stacks screen.
+[2024-08-16 13:31:09] - henzinlmao bought 1 x Glass Pane(Blocks.page3.items.113) for $2.49 with the buy screen.
+[2024-08-16 13:31:09] - henzinlmao bought 1 x Glass Pane(Blocks.page3.items.113) for $2.49 with the buy screen.
+[2024-08-16 13:31:09] - henzinlmao bought 1 x Glass Pane(Blocks.page3.items.113) for $2.49 with the buy screen.
+[2024-08-16 13:31:10] - henzinlmao bought 1 x Glass Pane(Blocks.page3.items.113) for $2.49 with the buy screen.
+[2024-08-16 13:31:49] - henzinlmao bought 2048 x Gold Ingot(Ores.page1.items.14) for $14,819.84 with the buy stacks screen.
+[2024-08-16 13:32:02] - henzinlmao bought 1088 x Gold Ingot(Ores.page1.items.14) for $8,997.76 with the buy stacks screen.
+[2024-08-16 13:32:18] - henzinlmao bought 448 x Gold Ingot(Ores.page1.items.14) for $3,704.96 with the buy stacks screen.
+[2024-08-16 14:19:44] - henzinlmao bought 17 x Dirt(Blocks.page3.items.102) for $51 with the buy screen.
+[2024-08-16 14:30:08] - cutngam bought 64 x Torch(Z_EverythingElse.page10.items.444) for $98.56 with the buy screen.
+[2024-08-16 14:30:12] - cutngam bought 64 x Torch(Z_EverythingElse.page10.items.444) for $98.56 with the buy screen.
+[2024-08-16 14:38:51] - henzinlmao bought 1 x Blue Bed(Z_EverythingElse.page1.items.33) for $96.09 with the buy screen.
+[2024-08-16 14:39:16] - henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-17 01:50:02] - henzinlmao bought 3 x Stripped Birch Log(Z_EverythingElse.page10.items.427) for $9.45 with the buy screen.
+[2024-08-17 01:55:21] - henzinlmao bought 1 x Dark Oak Boat(Z_EverythingElse.page12.items.496) for $5.79 with the buy screen.
+[2024-08-17 01:56:20] - henzinlmao bought 1 x Elytra(Miscellaneous.page1.items.8) for $2,415.20 with the buy screen.
+[2024-08-17 01:56:30] - henzinlmao bought 64 x Firework Rocket(Z_EverythingElse.page4.items.171) for $350.08 with the buy screen.
+[2024-08-17 02:03:11] - henzinlmao bought 64 x Golden Carrot(Food.page1.items.8) for $780.80 with the buy stacks screen.
+[2024-08-17 03:15:58] - ThienLe sold 2 x Potion(Potions.page1.items.14) for $4.90 with the sell screen.
+[2024-08-17 03:17:32] - ThienLe sold 64 x Wheat(Farming.page1.items.28) for $1,920 with the sell screen.
+[2024-08-17 03:17:56] - ThienLe sold 64 x Wheat(Farming.page1.items.28) for $1,920 with the sell screen.
+[2024-08-17 03:18:07] - ThienLe sold 64 x Wheat(Farming.page1.items.28) for $1,920 with the sell screen.
+[2024-08-17 03:18:07] - ThienLe sold 6 x Wheat(Farming.page1.items.28) for $180 with the sell screen.
+[2024-08-17 03:25:44] - henzinlmao sold 1x Bedrock(Z_EverythingElse.page12.items.11) for $185,185,185.18 with the sell gui.
+[2024-08-17 03:25:55] - ThienLe bought 1 x Elytra(Miscellaneous.page1.items.8) for $2,415.20 with the buy screen.
+[2024-08-17 03:26:20] - ThienLe bought 64 x Firework Rocket(Z_EverythingElse.page4.items.171) for $350.08 with the buy screen.
+[2024-08-17 03:31:11] - henzinlmao bought 6 x Book(Z_EverythingElse.page1.items.44) for $213.71 with the buy screen.
+[2024-08-17 03:32:09] - ThienLe bought 64 x Oak Log(Blocks.page5.items.206) for $192 with the buy screen.
+[2024-08-17 03:35:02] - henzinlmao bought 1 x Book(Z_EverythingElse.page1.items.44) for $35.62 with the buy screen.
+[2024-08-17 03:38:20] - ThienLe bought 64 x Oak Log(Blocks.page5.items.206) for $192 with the buy screen.
+[2024-08-17 03:45:02] - ThienLe bought 1 x Blast Furnace(Workstations.page1.items.2) for $37.30 with the buy screen.
+[2024-08-17 03:45:03] - ThienLe bought 1 x Blast Furnace(Workstations.page1.items.2) for $37.30 with the buy screen.
+[2024-08-17 03:45:03] - ThienLe bought 1 x Blast Furnace(Workstations.page1.items.2) for $37.30 with the buy screen.
+[2024-08-17 03:45:43] - ThienLe bought 1 x Soul Sand(Blocks.page1.items.10) for $10 with the buy screen.
+[2024-08-17 03:45:44] - ThienLe bought 1 x Soul Sand(Blocks.page1.items.10) for $10 with the buy screen.
+[2024-08-17 03:46:25] - ThienLe bought 1 x Flint And Steel(Z_EverythingElse.page4.items.175) for $7.89 with the buy screen.
+[2024-08-17 03:47:47] - ThienLe bought 64 x Oak Log(Blocks.page5.items.206) for $192 with the buy screen.
+[2024-08-17 03:51:13] - henzinlmao bought 1 x Quartz Stairs(Blocks.page4.items.148) for $36.47 with the buy screen.
+[2024-08-17 03:51:51] - henzinlmao bought 192 x Glass(Blocks.page3.items.112) for $1,209.60 with the buy stacks screen.
+[2024-08-17 04:00:27] - henzinlmao bought 64 x Smooth Quartz(Z_EverythingElse.page9.items.402) for $2,334.08 with the buy screen.
+[2024-08-17 04:08:46] - henzinlmao bought 640 x Glass(Blocks.page3.items.112) for $4,032 with the buy stacks screen.
+[2024-08-17 07:24:11] - White_skinss bought 3 x Diamond(Ores.page1.items.9) for $157.50 with the buy screen.
+[2024-08-17 07:24:25] - White_skinss bought 2 x Cherry Planks(Blocks.page2.items.47) for $1.58 with the buy screen.
+[2024-08-17 07:27:53] - White_skinss bought 1 x Redstone(Ores.page1.items.23) for $3.50 with the buy screen.
+[2024-08-17 08:34:34] - tocacchut sold 261 x Nether Wart(Farming.page1.items.19) for $13,050 with the sell screen.
+[2024-08-17 08:34:43] - tocacchut sold 239 x Carrot(Farming.page1.items.8) for $298.75 with the sell screen.
+[2024-08-17 12:55:39] - mixaodua bought 17 x Iron Ingot(Ores.page1.items.16) for $93.83 with the buy screen.
+[2024-08-17 13:11:23] - henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-17 13:11:23] - henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-17 13:17:56] - henzinlmao bought 17 x Pufferfish Bucket(Miscellaneous.page1.items.24) for $438.09 with the buy screen.
+[2024-08-17 13:19:12] - henzinlmao bought 17 x Tropical Fish Bucket(Miscellaneous.page1.items.38) for $438.09 with the buy screen.
+[2024-08-17 13:19:50] - henzinlmao bought 17 x Tadpole Bucket(Miscellaneous.page1.items.35) for $330.99 with the buy screen.
+[2024-08-17 13:20:40] - henzinlmao bought 17 x Salmon Bucket(Miscellaneous.page1.items.27) for $412.32 with the buy screen.
+[2024-08-17 13:21:08] - henzinlmao bought 1 x Salmon Bucket(Miscellaneous.page1.items.27) for $25.77 with the buy screen.
+[2024-08-17 13:21:26] - henzinlmao bought 17 x Cod Bucket(Miscellaneous.page1.items.7) for $386.55 with the buy screen.
+[2024-08-17 13:24:00] - henzinlmao bought 1 x Oak Slab(Blocks.page5.items.208) for $0.58 with the buy screen.
+[2024-08-17 13:24:19] - henzinlmao bought 1 x Spruce Planks(Blocks.page5.items.212) for $1.11 with the buy screen.
+[2024-08-17 13:24:54] - henzinlmao bought 17 x Stone Brick Slab(Blocks.page4.items.163) for $6.46 with the buy screen.
+[2024-08-17 13:29:20] - henzinlmao bought 17 x Stone Brick Slab(Blocks.page4.items.163) for $6.46 with the buy screen.
+[2024-08-17 13:30:10] - henzinlmao bought 17 x Stone Brick Slab(Blocks.page4.items.163) for $6.46 with the buy screen.
+[2024-08-17 13:32:17] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-08-17 13:32:17] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-08-17 13:32:18] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-08-17 13:32:18] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-08-17 13:32:19] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-08-17 13:32:19] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-08-17 13:32:19] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-08-17 13:32:19] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-08-17 13:32:19] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-08-17 13:32:19] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-08-17 13:32:20] - henzinlmao bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-08-17 13:33:51] - henzinlmao bought 1 x Bamboo Door(Blocks.page1.items.21) for $1.05 with the buy screen.
+[2024-08-17 13:34:56] - henzinlmao bought 1 x Magma Block(Blocks.page1.items.5) for $20.51 with the buy screen.
+[2024-08-17 13:35:31] - henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-17 13:37:39] - henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-17 13:37:41] - henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-17 13:37:41] - henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-17 13:39:01] - henzinlmao bought 1 x Birch Pressure Plate(Z_EverythingElse.page1.items.18) for $2.32 with the buy screen.
+[2024-08-17 13:42:19] - henzinlmao bought 1 x Bamboo Door(Blocks.page1.items.21) for $1.05 with the buy screen.
+[2024-08-17 13:42:20] - henzinlmao bought 1 x Bamboo Door(Blocks.page1.items.21) for $1.05 with the buy screen.
+[2024-08-17 13:51:52] - henzinlmao bought 4 x Bamboo Pressure Plate(Blocks.page1.items.28) for $4.20 with the buy screen.
+[2024-08-17 14:01:09] - henzinlmao bought 64 x Bamboo(Farming.page1.items.1) for $12,800 with the buy screen.
+[2024-08-17 14:03:55] - henzinlmao bought 6 x Bamboo(Farming.page1.items.1) for $1,200 with the buy screen.
+[2024-08-18 07:51:26] - henzinlmao bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-08-18 07:51:27] - henzinlmao bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-08-18 07:51:57] - henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-18 07:52:16] - henzinlmao bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-08-18 07:52:17] - henzinlmao bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-08-18 07:52:17] - henzinlmao bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-08-18 08:04:48] - henzinlmao bought 17 x Smooth Quartz(Z_EverythingElse.page9.items.402) for $619.99 with the buy screen.
+[2024-08-18 08:04:54] - henzinlmao bought 448 x Smooth Quartz Stairs(Z_EverythingElse.page9.items.404) for $17,153.92 with the buy stacks screen.
+[2024-08-18 08:05:24] - henzinlmao bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-08-18 08:34:43] - henzinlmao bought 1 x Deepslate Tile Stairs(Blocks.page3.items.94) for $0.83 with the buy screen.
+[2024-08-19 02:35:41] - henzinlmao sold 1x Brown Wool(Blocks.page5.items.225), 533x Bamboo(Farming.page1.items.1), 3x Bone(Mobs.page1.items.4), 5x Spider Eye(Mobs.page1.items.17), 5x String(Mobs.page1.items.18), 7x Arrow(Mobs.page1.items.1), 1x Wheat Seeds(Farming.page1.items.29) for $16,033.34 with the sell gui.
+[2024-08-19 02:36:43] - henzinlmao sold 1472x Bamboo(Farming.page1.items.1) for $44,160 with the sell gui.
+[2024-08-19 02:36:52] - henzinlmao sold 1472x Bamboo(Farming.page1.items.1) for $44,160 with the sell gui.
+[2024-08-19 02:36:59] - henzinlmao sold 561x Bamboo(Farming.page1.items.1) for $16,830 with the sell gui.
+[2024-08-19 02:39:42] - henzinlmao bought 33 x Stone(Blocks.page1.items.11) for $23.75 with the buy screen.
+[2024-08-19 02:42:14] - henzinlmao bought 1 x Birch Sign(Decoration.page2.items.86) for $2.52 with the buy screen.
+[2024-08-19 02:42:35] - henzinlmao bought 1 x Netherite Pickaxe(Z_EverythingElse.page7.items.308) for $2,660.92 with the buy screen.
+[2024-08-19 02:52:41] - henzinlmao bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-08-19 02:52:41] - henzinlmao bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-08-19 02:57:03] - henzinlmao bought 1 x Birch Trapdoor(Z_EverythingElse.page1.items.19) for $3.48 with the buy screen.
+[2024-08-19 02:57:56] - henzinlmao sold 25x Stone(Blocks.page1.items.11), 803x Bamboo(Farming.page1.items.1), 4x Oak Planks(Blocks.page5.items.207) for $24,095.62 with the sell gui.
+[2024-08-19 02:58:08] - henzinlmao bought 17 x Hopper Minecart(Z_EverythingElse.page5.items.218) for $1,206.83 with the buy screen.
+[2024-08-19 02:59:33] - henzinlmao bought 1 x Hopper Minecart(Z_EverythingElse.page5.items.218) for $70.99 with the buy screen.
+[2024-08-19 02:59:33] - henzinlmao bought 1 x Hopper Minecart(Z_EverythingElse.page5.items.218) for $70.99 with the buy screen.
+[2024-08-19 02:59:34] - henzinlmao bought 1 x Hopper Minecart(Z_EverythingElse.page5.items.218) for $70.99 with the buy screen.
+[2024-08-19 02:59:54] - henzinlmao bought 6 x Oak Planks(Blocks.page5.items.207) for $6.66 with the buy screen.
+[2024-08-19 03:12:59] - henzinlmao bought 1 x Armor Stand(Z_EverythingElse.page1.items.13) for $4.05 with the buy screen.
+[2024-08-19 03:12:59] - henzinlmao bought 1 x Armor Stand(Z_EverythingElse.page1.items.13) for $4.05 with the buy screen.
+[2024-08-19 03:13:19] - henzinlmao bought 1 x Diamond Helmet(Z_EverythingElse.page4.items.142) for $275.63 with the buy screen.
+[2024-08-19 03:13:21] - henzinlmao bought 1 x Diamond Chestplate(Z_EverythingElse.page4.items.141) for $441 with the buy screen.
+[2024-08-19 03:13:28] - henzinlmao bought 1 x Diamond Boots(Z_EverythingElse.page4.items.140) for $220.50 with the buy screen.
+[2024-08-19 03:13:31] - henzinlmao bought 1 x Diamond Leggings(Z_EverythingElse.page4.items.145) for $385.88 with the buy screen.
+[2024-08-19 03:13:36] - henzinlmao bought 1 x Netherite Helmet(Z_EverythingElse.page7.items.305) for $2,775.41 with the buy screen.
+[2024-08-19 03:13:38] - henzinlmao bought 1 x Netherite Chestplate(Z_EverythingElse.page7.items.304) for $2,949.05 with the buy screen.
+[2024-08-19 03:13:40] - henzinlmao bought 1 x Netherite Boots(Z_EverythingElse.page7.items.303) for $2,717.53 with the buy screen.
+[2024-08-19 03:13:42] - henzinlmao bought 1 x Netherite Leggings(Z_EverythingElse.page7.items.307) for $2,891.17 with the buy screen.
+[2024-08-19 04:36:11] - long191910 bought 1 x Phóng lợn(Miscellaneous.page2.items.18) for $10,000 with the buy screen.
+[2024-08-19 04:36:11] - long191910 bought 1 x Phóng lợn(Miscellaneous.page2.items.18) for $10,000 with the buy screen.
+[2024-08-19 04:50:28] - henzinlmao bought 6 x Chest(Z_EverythingElse.page2.items.67) for $55.62 with the buy screen.
+[2024-08-19 04:51:23] - henzinlmao bought 6 x Hopper(Redstone.page1.items.5) for $232.02 with the buy screen.
+[2024-08-19 09:58:37] - White_skinss bought 1 x Diamond Axe(Z_EverythingElse.page4.items.139) for $166.60 with the buy screen.
+[2024-08-19 09:58:47] - Henzinlmao bought 1 x Elytra(Miscellaneous.page1.items.8) for $2,415.20 with the buy screen.
+[2024-08-20 10:25:52] - Henzinlmao bought 17 x Stone Bricks(Blocks.page4.items.165) for $12.75 with the buy screen.
+[2024-08-20 10:25:52] - Henzinlmao bought 17 x Stone Bricks(Blocks.page4.items.165) for $12.75 with the buy screen.
+[2024-08-21 06:07:33] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.31) for $972.41 with the buy screen.
+[2024-08-21 06:07:35] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.38) for $441 with the buy screen.
+[2024-08-21 06:07:40] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.21) for $10,000 with the buy screen.
+[2024-08-21 06:07:44] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.7) for $972.41 with the buy screen.
+[2024-08-21 06:07:47] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.9) for $6,750 with the buy screen.
+[2024-08-21 06:07:56] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.16) for $210 with the buy screen.
+[2024-08-21 06:17:52] - Henzinlmao bought 1 x Stone(Blocks.page1.items.11) for $0.72 with the buy screen.
+[2024-08-21 06:17:53] - Henzinlmao bought 1 x Stone(Blocks.page1.items.11) for $0.72 with the buy screen.
+[2024-08-21 06:18:01] - Henzinlmao bought 1 x Stone(Blocks.page1.items.11) for $0.72 with the buy screen.
+[2024-08-21 06:19:02] - White_skinss sold 1728 x Bamboo(Farming.page1.items.1) for $51,840 with the quick sell screen.
+[2024-08-21 06:20:25] - Henzinlmao bought 4 x Stone(Blocks.page1.items.11) for $2.88 with the buy screen.
+[2024-08-21 06:20:40] - Henzinlmao bought 1 x Redstone(Ores.page1.items.23) for $3.50 with the buy screen.
+[2024-08-21 06:24:53] - White_skinss bought 64 x Emerald(Ores.page1.items.11) for $2,520.32 with the buy stacks screen.
+[2024-08-21 06:25:53] - White_skinss bought 64 x Redstone(Ores.page1.items.23) for $224 with the buy stacks screen.
+[2024-08-21 06:39:49] - White_skinss bought 256 x Pufferfish(Z_EverythingElse.page8.items.356) for $1,536 with the buy stacks screen.
+[2024-08-21 06:41:35] - Henzinlmao bought 64 x Sandstone(Blocks.page4.items.151) for $768 with the buy screen.
+[2024-08-21 06:42:25] - Henzinlmao bought 64 x Sandstone(Blocks.page4.items.151) for $768 with the buy screen.
+[2024-08-21 06:42:26] - Henzinlmao bought 64 x Sandstone(Blocks.page4.items.151) for $768 with the buy screen.
+[2024-08-21 06:43:33] - Henzinlmao bought 64 x Sandstone(Blocks.page4.items.151) for $768 with the buy screen.
+[2024-08-21 06:43:33] - Henzinlmao bought 64 x Sandstone(Blocks.page4.items.151) for $768 with the buy screen.
+[2024-08-21 06:47:47] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 06:51:36] - Henzinlmao bought 36 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $113.39 with the buy screen.
+[2024-08-21 06:53:35] - Henzinlmao bought 64 x Sea Lantern(Decoration.page2.items.63) for $4,233.60 with the buy screen.
+[2024-08-21 06:56:11] - Henzinlmao bought 64 x Oak Trapdoor(Redstone.page1.items.32) for $222.72 with the buy screen.
+[2024-08-21 07:01:26] - Henzinlmao bought 17 x Sea Lantern(Decoration.page2.items.63) for $1,124.55 with the buy screen.
+[2024-08-21 07:01:30] - Henzinlmao bought 4 x Sea Lantern(Decoration.page2.items.63) for $264.60 with the buy screen.
+[2024-08-21 07:01:37] - Henzinlmao bought 33 x Oak Trapdoor(Redstone.page1.items.32) for $114.84 with the buy screen.
+[2024-08-21 07:02:51] - Henzinlmao bought 17 x Sea Lantern(Decoration.page2.items.63) for $1,124.55 with the buy screen.
+[2024-08-21 07:04:33] - Henzinlmao bought 17 x Oak Trapdoor(Redstone.page1.items.32) for $59.16 with the buy screen.
+[2024-08-21 07:07:03] - Henzinlmao bought 64 x Sandstone Slab(Blocks.page4.items.152) for $403.20 with the buy screen.
+[2024-08-21 07:07:04] - Henzinlmao bought 64 x Sandstone Slab(Blocks.page4.items.152) for $403.20 with the buy screen.
+[2024-08-21 07:07:04] - Henzinlmao bought 64 x Sandstone Slab(Blocks.page4.items.152) for $403.20 with the buy screen.
+[2024-08-21 06:07:33] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.31) for $972.41 with the buy screen.
+[2024-08-21 06:07:35] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.38) for $441 with the buy screen.
+[2024-08-21 06:07:40] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.21) for $10,000 with the buy screen.
+[2024-08-21 06:07:44] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.7) for $972.41 with the buy screen.
+[2024-08-21 06:07:47] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.9) for $6,750 with the buy screen.
+[2024-08-21 06:07:56] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.16) for $210 with the buy screen.
+[2024-08-21 06:17:52] - Henzinlmao bought 1 x Stone(Blocks.page1.items.11) for $0.72 with the buy screen.
+[2024-08-21 06:17:53] - Henzinlmao bought 1 x Stone(Blocks.page1.items.11) for $0.72 with the buy screen.
+[2024-08-21 06:18:01] - Henzinlmao bought 1 x Stone(Blocks.page1.items.11) for $0.72 with the buy screen.
+[2024-08-21 06:19:02] - White_skinss sold 1728 x Bamboo(Farming.page1.items.1) for $51,840 with the quick sell screen.
+[2024-08-21 06:20:25] - Henzinlmao bought 4 x Stone(Blocks.page1.items.11) for $2.88 with the buy screen.
+[2024-08-21 06:20:40] - Henzinlmao bought 1 x Redstone(Ores.page1.items.23) for $3.50 with the buy screen.
+[2024-08-21 06:24:53] - White_skinss bought 64 x Emerald(Ores.page1.items.11) for $2,520.32 with the buy stacks screen.
+[2024-08-21 06:25:53] - White_skinss bought 64 x Redstone(Ores.page1.items.23) for $224 with the buy stacks screen.
+[2024-08-21 06:39:49] - White_skinss bought 256 x Pufferfish(Z_EverythingElse.page8.items.356) for $1,536 with the buy stacks screen.
+[2024-08-21 06:41:35] - Henzinlmao bought 64 x Sandstone(Blocks.page4.items.151) for $768 with the buy screen.
+[2024-08-21 06:42:25] - Henzinlmao bought 64 x Sandstone(Blocks.page4.items.151) for $768 with the buy screen.
+[2024-08-21 06:42:26] - Henzinlmao bought 64 x Sandstone(Blocks.page4.items.151) for $768 with the buy screen.
+[2024-08-21 06:43:33] - Henzinlmao bought 64 x Sandstone(Blocks.page4.items.151) for $768 with the buy screen.
+[2024-08-21 06:43:33] - Henzinlmao bought 64 x Sandstone(Blocks.page4.items.151) for $768 with the buy screen.
+[2024-08-21 06:47:47] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 06:51:36] - Henzinlmao bought 36 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $113.39 with the buy screen.
+[2024-08-21 06:53:35] - Henzinlmao bought 64 x Sea Lantern(Decoration.page2.items.63) for $4,233.60 with the buy screen.
+[2024-08-21 06:56:11] - Henzinlmao bought 64 x Oak Trapdoor(Redstone.page1.items.32) for $222.72 with the buy screen.
+[2024-08-21 07:01:26] - Henzinlmao bought 17 x Sea Lantern(Decoration.page2.items.63) for $1,124.55 with the buy screen.
+[2024-08-21 07:01:30] - Henzinlmao bought 4 x Sea Lantern(Decoration.page2.items.63) for $264.60 with the buy screen.
+[2024-08-21 07:01:37] - Henzinlmao bought 33 x Oak Trapdoor(Redstone.page1.items.32) for $114.84 with the buy screen.
+[2024-08-21 07:02:51] - Henzinlmao bought 17 x Sea Lantern(Decoration.page2.items.63) for $1,124.55 with the buy screen.
+[2024-08-21 07:04:33] - Henzinlmao bought 17 x Oak Trapdoor(Redstone.page1.items.32) for $59.16 with the buy screen.
+[2024-08-21 07:07:03] - Henzinlmao bought 64 x Sandstone Slab(Blocks.page4.items.152) for $403.20 with the buy screen.
+[2024-08-21 07:07:04] - Henzinlmao bought 64 x Sandstone Slab(Blocks.page4.items.152) for $403.20 with the buy screen.
+[2024-08-21 07:07:04] - Henzinlmao bought 64 x Sandstone Slab(Blocks.page4.items.152) for $403.20 with the buy screen.
+[2024-08-21 07:07:58] - Henzinlmao bought 1 x Stripped Dark Oak Log(Z_EverythingElse.page10.items.431) for $3.15 with the buy screen.
+[2024-08-21 07:08:12] - long191910 bought 1 x Black Shulker Box(Miscellaneous.page3.items.1) for $100 with the buy screen.
+[2024-08-21 07:10:14] - Henzinlmao bought 64 x Sandstone Slab(Blocks.page4.items.152) for $403.20 with the buy screen.
+[2024-08-21 07:13:00] - Henzinlmao bought 64 x Snow Block(Blocks.page1.items.9) for $806.40 with the buy screen.
+[2024-08-21 07:14:45] - Henzinlmao bought 64 x Stripped Spruce Log(Z_EverythingElse.page10.items.437) for $201.60 with the buy screen.
+[2024-08-21 07:15:05] - Henzinlmao bought 64 x Spruce Slab(Blocks.page5.items.213) for $37.12 with the buy screen.
+[2024-08-21 07:15:12] - Henzinlmao bought 64 x Spruce Stairs(Blocks.page5.items.214) for $111.36 with the buy screen.
+[2024-08-21 07:15:25] - Henzinlmao bought 64 x Dark Oak Fence(Z_EverythingElse.page3.items.120) for $124.80 with the buy screen.
+[2024-08-21 07:19:10] - Henzinlmao bought 12 x Snow Block(Blocks.page1.items.9) for $151.20 with the buy screen.
+[2024-08-21 07:19:21] - Henzinlmao bought 10 x Stone(Blocks.page1.items.11) for $7.19 with the buy screen.
+[2024-08-21 07:19:31] - Henzinlmao bought 6 x Stone(Blocks.page1.items.11) for $4.32 with the buy screen.
+[2024-08-21 07:19:39] - Henzinlmao bought 1 x Stone(Blocks.page1.items.11) for $0.72 with the buy screen.
+[2024-08-21 07:19:40] - Henzinlmao bought 1 x Stone(Blocks.page1.items.11) for $0.72 with the buy screen.
+[2024-08-21 07:19:40] - Henzinlmao bought 1 x Stone(Blocks.page1.items.11) for $0.72 with the buy screen.
+[2024-08-21 07:20:04] - Henzinlmao bought 16 x Stone(Blocks.page1.items.11) for $11.52 with the buy screen.
+[2024-08-21 07:20:42] - Henzinlmao bought 33 x Stone(Blocks.page1.items.11) for $23.75 with the buy screen.
+[2024-08-21 07:22:55] - Henzinlmao bought 17 x Bone Block(Z_EverythingElse.page1.items.42) for $337.45 with the buy screen.
+[2024-08-21 07:23:27] - Henzinlmao bought 33 x Snow Block(Blocks.page1.items.9) for $415.80 with the buy screen.
+[2024-08-21 07:24:17] - Henzinlmao bought 17 x Snow Block(Blocks.page1.items.9) for $214.20 with the buy screen.
+[2024-08-21 07:25:33] - Henzinlmao bought 1 x Raw Gold Block(Z_EverythingElse.page9.items.374) for $74.42 with the buy screen.
+[2024-08-21 07:25:34] - Henzinlmao bought 1 x Raw Gold Block(Z_EverythingElse.page9.items.374) for $74.42 with the buy screen.
+[2024-08-21 07:25:47] - Henzinlmao bought 1 x Gold Block(Ores.page1.items.13) for $78.14 with the buy screen.
+[2024-08-21 07:25:47] - Henzinlmao bought 1 x Gold Block(Ores.page1.items.13) for $78.14 with the buy screen.
+[2024-08-21 07:25:49] - Henzinlmao bought 1 x Gold Block(Ores.page1.items.13) for $78.14 with the buy screen.
+[2024-08-21 07:25:49] - Henzinlmao bought 1 x Gold Block(Ores.page1.items.13) for $78.14 with the buy screen.
+[2024-08-21 07:26:26] - Henzinlmao bought 17 x Smooth Quartz(Z_EverythingElse.page9.items.402) for $619.99 with the buy screen.
+[2024-08-21 07:26:32] - Henzinlmao bought 17 x Smooth Quartz Stairs(Z_EverythingElse.page9.items.404) for $650.93 with the buy screen.
+[2024-08-21 07:26:48] - Henzinlmao bought 1 x Dark Oak Button(Z_EverythingElse.page3.items.118) for $1.16 with the buy screen.
+[2024-08-21 07:26:48] - Henzinlmao bought 1 x Dark Oak Button(Z_EverythingElse.page3.items.118) for $1.16 with the buy screen.
+[2024-08-21 07:29:20] - Henzinlmao bought 64 x Deepslate Tiles(Blocks.page3.items.95) for $50.56 with the buy screen.
+[2024-08-21 07:29:24] - Henzinlmao bought 64 x Deepslate Tile Slab(Blocks.page3.items.93) for $26.88 with the buy screen.
+[2024-08-21 07:30:48] - Henzinlmao bought 64 x Deepslate Tile Slab(Blocks.page3.items.93) for $26.88 with the buy screen.
+[2024-08-21 07:35:05] - Henzinlmao bought 12 x Stripped Dark Oak Log(Z_EverythingElse.page10.items.431) for $37.80 with the buy screen.
+[2024-08-21 07:35:44] - Henzinlmao bought 2 x Stripped Dark Oak Log(Z_EverythingElse.page10.items.431) for $6.30 with the buy screen.
+[2024-08-21 07:35:56] - Henzinlmao bought 6 x Sea Lantern(Decoration.page2.items.63) for $396.90 with the buy screen.
+[2024-08-21 07:36:04] - Henzinlmao bought 6 x Oak Trapdoor(Redstone.page1.items.32) for $20.88 with the buy screen.
+[2024-08-21 07:36:11] - Henzinlmao bought 4 x Stone(Blocks.page1.items.11) for $2.88 with the buy screen.
+[2024-08-21 07:36:44] - Henzinlmao bought 33 x Snow Block(Blocks.page1.items.9) for $415.80 with the buy screen.
+[2024-08-21 07:38:25] - Henzinlmao bought 18 x Oak Stairs(Blocks.page5.items.209) for $31.32 with the buy screen.
+[2024-08-21 07:39:19] - Henzinlmao bought 17 x Oak Planks(Blocks.page5.items.207) for $18.87 with the buy screen.
+[2024-08-21 07:40:00] - Henzinlmao bought 16 x Stone(Blocks.page1.items.11) for $11.52 with the buy screen.
+[2024-08-21 07:40:17] - Henzinlmao bought 3 x Stone(Blocks.page1.items.11) for $2.16 with the buy screen.
+[2024-08-21 07:40:36] - Henzinlmao bought 8 x Snow Block(Blocks.page1.items.9) for $100.80 with the buy screen.
+[2024-08-21 07:43:01] - Henzinlmao bought 1 x Lantern(Miscellaneous.page2.items.56) for $6.50 with the buy screen.
+[2024-08-21 07:43:02] - Henzinlmao bought 1 x Lantern(Miscellaneous.page2.items.56) for $6.50 with the buy screen.
+[2024-08-21 07:43:37] - Henzinlmao bought 1 x End Rod(Miscellaneous.page2.items.55) for $2.14 with the buy screen.
+[2024-08-21 07:43:38] - Henzinlmao bought 1 x End Rod(Miscellaneous.page2.items.55) for $2.14 with the buy screen.
+[2024-08-21 07:43:38] - Henzinlmao bought 1 x End Rod(Miscellaneous.page2.items.55) for $2.14 with the buy screen.
+[2024-08-21 07:43:38] - Henzinlmao bought 1 x End Rod(Miscellaneous.page2.items.55) for $2.14 with the buy screen.
+[2024-08-21 07:45:02] - Henzinlmao bought 64 x Deepslate Tiles(Blocks.page3.items.95) for $50.56 with the buy screen.
+[2024-08-21 07:45:05] - Henzinlmao bought 64 x Deepslate Tile Slab(Blocks.page3.items.93) for $26.88 with the buy screen.
+[2024-08-21 07:45:05] - Henzinlmao bought 64 x Deepslate Tile Slab(Blocks.page3.items.93) for $26.88 with the buy screen.
+[2024-08-21 07:45:51] - Henzinlmao bought 18 x Deepslate Tile Stairs(Blocks.page3.items.94) for $14.94 with the buy screen.
+[2024-08-21 07:45:53] - Henzinlmao bought 34 x Deepslate Tile Stairs(Blocks.page3.items.94) for $28.22 with the buy screen.
+[2024-08-21 07:47:46] - Henzinlmao bought 33 x Deepslate Tile Stairs(Blocks.page3.items.94) for $27.38 with the buy screen.
+[2024-08-21 07:49:07] - Henzinlmao bought 17 x Deepslate Tile Stairs(Blocks.page3.items.94) for $14.11 with the buy screen.
+[2024-08-21 07:49:08] - Henzinlmao bought 17 x Deepslate Tile Stairs(Blocks.page3.items.94) for $14.11 with the buy screen.
+[2024-08-21 07:51:54] - Henzinlmao bought 4 x Polished Deepslate(Z_EverythingElse.page8.items.347) for $2.88 with the buy screen.
+[2024-08-21 07:51:59] - Henzinlmao bought 3 x Polished Deepslate Stairs(Z_EverythingElse.page8.items.349) for $2.25 with the buy screen.
+[2024-08-21 07:53:22] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:22] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:22] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:22] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:23] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:23] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:23] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:23] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:23] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:23] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:24] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:24] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:24] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:24] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:24] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:25] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:25] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:53:25] - Henzinlmao bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-08-21 07:57:36] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 07:57:37] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 07:57:37] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 07:57:38] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 07:57:39] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 07:57:39] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 07:57:39] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 07:57:39] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 07:57:40] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 07:57:40] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 07:57:40] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 07:57:41] - Henzinlmao bought 64 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $201.60 with the buy screen.
+[2024-08-21 08:08:12] - Henzinlmao bought 1 x Diamond Helmet(Z_EverythingElse.page4.items.142) for $275.63 with the buy screen.
+[2024-08-21 08:08:22] - Henzinlmao bought 1 x Diamond Chestplate(Z_EverythingElse.page4.items.141) for $441 with the buy screen.
+[2024-08-21 08:08:23] - Henzinlmao bought 1 x Diamond Boots(Z_EverythingElse.page4.items.140) for $220.50 with the buy screen.
+[2024-08-21 08:08:26] - Henzinlmao bought 1 x Diamond Leggings(Z_EverythingElse.page4.items.145) for $385.88 with the buy screen.
+[2024-08-21 08:08:28] - Henzinlmao bought 1 x Diamond Axe(Z_EverythingElse.page4.items.139) for $166.60 with the buy screen.
+[2024-08-21 08:08:31] - Henzinlmao bought 1 x Diamond Sword(Z_EverythingElse.page4.items.149) for $110.86 with the buy screen.
+[2024-08-21 08:08:41] - Henzinlmao bought 1 x Diamond Pickaxe(Z_EverythingElse.page4.items.147) for $166.60 with the buy screen.
+[2024-08-21 08:11:04] - Henzinlmao bought 64 x Cooked Beef(Food.page1.items.11) for $403.20 with the buy screen.
+[2024-08-21 08:29:38] - Henzinlmao bought 17 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $53.55 with the buy screen.
+[2024-08-21 08:30:01] - Henzinlmao bought 1 x Stripped Oak Log(Z_EverythingElse.page10.items.435) for $3.15 with the buy screen.
+[2024-08-21 08:34:05] - Henzinlmao bought 64 x Bone Block(Z_EverythingElse.page1.items.42) for $1,270.40 with the buy screen.
+[2024-08-21 08:34:06] - Henzinlmao bought 64 x Bone Block(Z_EverythingElse.page1.items.42) for $1,270.40 with the buy screen.
+[2024-08-21 08:35:50] - Henzinlmao bought 10 x Bone Block(Z_EverythingElse.page1.items.42) for $198.50 with the buy screen.
+[2024-08-21 08:55:10] - Henzinlmao bought 64 x Snow Block(Blocks.page1.items.9) for $806.40 with the buy screen.
+[2024-08-21 08:55:10] - Henzinlmao bought 64 x Snow Block(Blocks.page1.items.9) for $806.40 with the buy screen.
+[2024-08-21 08:55:10] - Henzinlmao bought 64 x Snow Block(Blocks.page1.items.9) for $806.40 with the buy screen.
+[2024-08-21 08:55:11] - Henzinlmao bought 64 x Snow Block(Blocks.page1.items.9) for $806.40 with the buy screen.
+[2024-08-21 08:55:11] - Henzinlmao bought 64 x Snow Block(Blocks.page1.items.9) for $806.40 with the buy screen.
+[2024-08-21 08:55:50] - Henzinlmao bought 64 x Bone Block(Z_EverythingElse.page1.items.42) for $1,270.40 with the buy screen.
+[2024-08-21 08:55:57] - Henzinlmao bought 64 x Dark Oak Fence(Z_EverythingElse.page3.items.120) for $124.80 with the buy screen.
+[2024-08-21 08:58:01] - Henzinlmao bought 64 x Smooth Quartz Stairs(Z_EverythingElse.page9.items.404) for $2,450.56 with the buy screen.
+[2024-08-23 02:49:43] - Henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-23 02:49:44] - Henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-23 02:49:44] - Henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-23 02:49:44] - Henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-23 03:47:07] - Henzinlmao bought 1 x Trident(Miscellaneous.page1.items.37) for $180 with the buy screen.
+[2024-08-23 03:48:32] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.30) for $705.60 with the buy screen.
+[2024-08-23 03:48:38] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.27) for $336 with the buy screen.
+[2024-08-23 03:48:43] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.23) for $463.05 with the buy screen.
+[2024-08-23 03:48:47] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.19) for $705.60 with the buy screen.
+[2024-08-23 03:48:50] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.18) for $441 with the buy screen.
+[2024-08-23 03:48:55] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.15) for $200 with the buy screen.
+[2024-08-23 03:49:03] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.38) for $441 with the buy screen.
+[2024-08-23 03:49:06] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.21) for $10,000 with the buy screen.
+[2024-08-23 03:49:46] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.24) for $972.41 with the buy screen.
+[2024-08-23 03:50:21] - Henzinlmao bought 1 x Trident(Miscellaneous.page1.items.37) for $180 with the buy screen.
+[2024-08-23 03:53:40] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.31) for $972.41 with the buy screen.
+[2024-08-23 04:31:39] - Henzinlmao bought 17 x Dark Oak Stairs(Blocks.page5.items.188) for $29.58 with the buy screen.
+[2024-08-23 04:31:58] - Henzinlmao bought 17 x Stripped Dark Oak Log(Z_EverythingElse.page10.items.431) for $53.55 with the buy screen.
+[2024-08-23 04:32:28] - Henzinlmao bought 1 x Netherite Axe(Z_EverythingElse.page7.items.302) for $2,660.92 with the buy screen.
+[2024-08-23 04:44:28] - Henzinlmao bought 64 x Gray Carpet(Z_EverythingElse.page5.items.200) for $1,317.12 with the buy screen.
+[2024-08-24 08:01:47] - Henzinlmao sold 1664x Bamboo(Farming.page1.items.1) for $49,920 with the sell gui.
+[2024-08-24 08:01:54] - Henzinlmao sold 1664x Bamboo(Farming.page1.items.1) for $49,920 with the sell gui.
+[2024-08-24 08:02:01] - Henzinlmao sold 1664x Bamboo(Farming.page1.items.1) for $49,920 with the sell gui.
+[2024-08-24 08:02:07] - Henzinlmao sold 1664x Bamboo(Farming.page1.items.1) for $49,920 with the sell gui.
+[2024-08-24 08:02:16] - Henzinlmao sold 1664x Bamboo(Farming.page1.items.1) for $49,920 with the sell gui.
+[2024-08-24 08:02:23] - Henzinlmao sold 1664x Bamboo(Farming.page1.items.1) for $49,920 with the sell gui.
+[2024-08-24 08:33:40] - Henzinlmao bought 1 x Potion(Potions.page1.items.33) for $37.73 with the buy screen.
+[2024-08-24 08:34:35] - Henzinlmao bought 64 x Iron Block(Ores.page1.items.15) for $3,334.40 with the buy screen.
+[2024-08-24 08:35:06] - Henzinlmao bought 1 x Beacon(Miscellaneous.page2.items.54) for $5,000 with the buy screen.
+[2024-08-24 08:35:33] - Henzinlmao bought 64 x Netherite Block(Ores.page1.items.19) for $1,431,936 with the buy screen.
+[2024-08-24 08:36:20] - Henzinlmao bought 64 x Netherite Block(Ores.page1.items.19) for $1,431,936 with the buy screen.
+[2024-08-24 08:36:46] - Henzinlmao bought 1 x Netherite Pickaxe(Z_EverythingElse.page7.items.308) for $2,660.92 with the buy screen.
+[2024-08-24 08:44:47] - Henzinlmao bought 64 x Splash Potion(Potions.page2.items.68) for $1,354.32 with the buy screen.
+[2024-08-24 08:51:06] - Henzinlmao bought 4 x Stripped Dark Oak Log(Z_EverythingElse.page10.items.431) for $12.60 with the buy screen.
+[2024-08-24 08:51:32] - Henzinlmao bought 1 x Spruce Button(Z_EverythingElse.page10.items.410) for $1.16 with the buy screen.
+[2024-08-24 08:51:33] - Henzinlmao bought 1 x Spruce Button(Z_EverythingElse.page10.items.410) for $1.16 with the buy screen.
+[2024-08-24 08:51:33] - Henzinlmao bought 1 x Spruce Button(Z_EverythingElse.page10.items.410) for $1.16 with the buy screen.
+[2024-08-24 08:51:34] - Henzinlmao bought 1 x Spruce Button(Z_EverythingElse.page10.items.410) for $1.16 with the buy screen.
+[2024-08-24 08:51:40] - Henzinlmao bought 4 x Stripped Spruce Log(Z_EverythingElse.page10.items.437) for $12.60 with the buy screen.
+[2024-08-24 08:51:47] - Henzinlmao bought 4 x Stripped Dark Oak Log(Z_EverythingElse.page10.items.431) for $12.60 with the buy screen.
+[2024-08-24 08:52:24] - Henzinlmao bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-08-24 08:52:37] - Henzinlmao bought 1 x Flint And Steel(Z_EverythingElse.page4.items.175) for $7.89 with the buy screen.
+[2024-08-24 08:56:03] - Henzinlmao bought 64 x Spruce Planks(Blocks.page5.items.212) for $71.04 with the buy screen.
+[2024-08-24 08:56:30] - Henzinlmao bought 64 x Dark Oak Planks(Blocks.page5.items.186) for $71.04 with the buy screen.
+[2024-08-24 10:29:12] - White_skinss bought 128 x Grass Block(Blocks.page3.items.103) for $1,024 with the buy stacks screen.
+[2024-08-24 14:12:32] - Henzinlmao bought 33 x Dirt(Blocks.page3.items.102) for $99 with the buy screen.
+[2024-08-24 14:14:26] - Henzinlmao bought 1 x Iron Pickaxe(Z_EverythingElse.page6.items.230) for $18.58 with the buy screen.
+[2024-08-24 14:22:45] - Henzinlmao bought 64 x Golden Carrot(Food.page1.items.8) for $780.80 with the buy screen.
+[2024-08-24 14:29:36] - Henzinlmao bought 2 x Glass(Blocks.page3.items.112) for $12.60 with the buy screen.
+[2024-08-24 14:43:41] - Henzinlmao bought 1 x Stone(Blocks.page1.items.11) for $0.72 with the buy screen.
+[2024-08-24 14:44:07] - Henzinlmao bought 1 x Redstone(Ores.page1.items.23) for $3.50 with the buy screen.
+[2024-08-25 03:34:01] - Henzinlmao bought 1 x Flint And Steel(Z_EverythingElse.page4.items.175) for $7.89 with the buy screen.
+[2024-08-25 04:57:49] - Henzinlmao bought 64 x Iron Block(Ores.page1.items.15) for $3,334.40 with the buy screen.
+[2024-08-25 04:57:50] - Henzinlmao bought 64 x Iron Block(Ores.page1.items.15) for $3,334.40 with the buy screen.
+[2024-08-25 04:58:39] - Henzinlmao bought 64 x Carved Pumpkin(Z_EverythingElse.page2.items.61) for $384 with the buy screen.
+[2024-08-25 04:59:35] - Henzinlmao bought 1 x Diamond Pickaxe(Z_EverythingElse.page4.items.147) for $166.60 with the buy screen.
+[2024-08-25 05:13:11] - long191910 bought 1 x Beacon(Miscellaneous.page2.items.54) for $5,000 with the buy screen.
+[2024-08-25 05:17:57] - long191910 bought 4096 x Stone(Blocks.page1.items.11) for $1,244.15 with the buy stacks screen.
+[2024-08-25 05:30:37] - Henzinlmao bought 1 x Pink Stained Glass Pane(Z_EverythingElse.page8.items.337) for $2.66 with the buy screen.
+[2024-08-25 05:30:38] - Henzinlmao bought 1 x Pink Stained Glass Pane(Z_EverythingElse.page8.items.337) for $2.66 with the buy screen.
+[2024-08-25 05:30:38] - Henzinlmao bought 1 x Pink Stained Glass Pane(Z_EverythingElse.page8.items.337) for $2.66 with the buy screen.
+[2024-08-25 05:35:13] - Henzinlmao bought 1 x Netherite Pickaxe(Z_EverythingElse.page7.items.308) for $2,660.92 with the buy screen.
+[2024-08-25 05:35:13] - Henzinlmao bought 1 x Netherite Pickaxe(Z_EverythingElse.page7.items.308) for $2,660.92 with the buy screen.
+[2024-08-25 05:35:18] - Henzinlmao bought 1 x Anvil(Miscellaneous.page1.items.1) for $187.25 with the buy screen.
+[2024-08-25 05:35:59] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.7) for $972.41 with the buy screen.
+[2024-08-25 05:35:59] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.7) for $972.41 with the buy screen.
+[2024-08-25 05:48:20] - Henzinlmao sold 39x Carved Pumpkin(Z_EverythingElse.page2.items.61), 1x Diamond Leggings(Z_EverythingElse.page4.items.145), 5x Torch(Z_EverythingElse.page10.items.444), 1x Prismarine Crystals(Z_EverythingElse.page8.items.353), 2x Spider Eye(Mobs.page1.items.17), 64x Dark Oak Log(Blocks.page5.items.185), 192x Dark Oak Planks(Blocks.page5.items.186), 64x Birch Planks(Blocks.page4.items.176), 31x Dark Oak Slab(Blocks.page5.items.187), 25x Iron Block(Ores.page1.items.15), 1x Wet Sponge(Z_EverythingElse.page11.items.460), 1x Wheat Seeds(Farming.page1.items.29), 8x Cobblestone Wall(Z_EverythingElse.page2.items.82), 3x Kelp(Farming.page1.items.14), 60x Iron Ingot(Ores.page1.items.16), 20x Dark Oak Fence(Z_EverythingElse.page3.items.120) for $841.37 with the sell gui.
+[2024-08-25 05:49:53] - White_skinss bought 192 x Grass Block(Blocks.page3.items.103) for $1,536 with the buy stacks screen.
+[2024-08-25 06:09:40] - Henzinlmao bought 64 x Iron Ingot(Ores.page1.items.16) for $353.28 with the buy screen.
+[2024-08-25 06:38:12] - White_skinss bought 1 x Arrow(Mobs.page1.items.1) for $2.26 with the buy screen.
+[2024-08-25 06:46:28] - White_skinss bought 64 x Iron Ingot(Ores.page1.items.16) for $353.28 with the buy stacks screen.
+[2024-08-26 02:30:03] - Henzinlmao sold 1664x Cactus(Farming.page1.items.7) for $24,960 with the sell gui.
+[2024-08-26 02:34:35] - Henzinlmao sold 2x Wither Skeleton Skull(Z_EverythingElse.page11.items.472), 1x Stone Brick Stairs(Blocks.page4.items.164), 576x Coal(Ores.page1.items.4), 1024x Bone(Mobs.page1.items.4), 1x Redstone(Ores.page1.items.23), 1x Chest(Z_EverythingElse.page2.items.67) for $2,799.71 with the sell gui.
+[2024-08-26 02:54:39] - Henzinlmao bought 1 x Oak Boat(Z_EverythingElse.page12.items.502) for $5.79 with the buy screen.
+[2024-08-26 04:40:25] - GeneralPatrickVN bought 4096 x Polished Andesite(Blocks.page1.items.16) for $1,200 with the buy stacks screen.
+[2024-08-26 04:45:40] - GeneralPatrickVN bought 1088 x Smooth Stone(Z_EverythingElse.page9.items.405) for $816 with the buy stacks screen.
+[2024-08-26 05:37:52] - GeneralPatrickVN sold 447 x Cactus(Farming.page1.items.7) for $6,705 with the quick sell screen.
+[2024-08-26 05:55:42] - Henzinlmao bought 64 x Torch(Z_EverythingElse.page10.items.444) for $98.56 with the buy screen.
+[2024-08-26 06:06:12] - Henzinlmao sold 1x Oak Chest Boat(Z_EverythingElse.page12.items.503), 798x Bamboo(Farming.page1.items.1), 2x Wheat Seeds(Farming.page1.items.29) for $23,963.96 with the sell gui.
+[2024-08-26 06:07:08] - Henzinlmao bought 192 x White Stained Glass(Z_EverythingElse.page11.items.467) for $1,311.36 with the buy stacks screen.
+[2024-08-26 06:09:49] - Henzinlmao bought 1 x Oak Trapdoor(Redstone.page1.items.32) for $3.48 with the buy screen.
+[2024-08-26 06:09:49] - Henzinlmao bought 1 x Oak Trapdoor(Redstone.page1.items.32) for $3.48 with the buy screen.
+[2024-08-26 06:09:49] - Henzinlmao bought 1 x Oak Trapdoor(Redstone.page1.items.32) for $3.48 with the buy screen.
+[2024-08-26 06:12:14] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-26 06:12:14] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-26 06:16:04] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-26 06:16:05] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-26 06:16:05] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-26 06:22:13] - Henzinlmao bought 4 x Soul Sand(Blocks.page1.items.10) for $40 with the buy screen.
+[2024-08-26 06:28:49] - Henzinlmao bought 64 x White Stained Glass(Z_EverythingElse.page11.items.467) for $437.12 with the buy screen.
+[2024-08-26 06:31:47] - Henzinlmao bought 15 x White Stained Glass(Z_EverythingElse.page11.items.467) for $102.45 with the buy screen.
+[2024-08-26 06:32:44] - Henzinlmao bought 64 x Oak Sign(Decoration.page3.items.98) for $161.28 with the buy screen.
+[2024-08-26 06:32:52] - Henzinlmao bought 17 x Oak Trapdoor(Redstone.page1.items.32) for $59.16 with the buy screen.
+[2024-08-26 06:34:27] - Henzinlmao bought 10 x Oak Trapdoor(Redstone.page1.items.32) for $34.80 with the buy screen.
+[2024-08-26 06:45:59] - Henzinlmao bought 24 x White Stained Glass(Z_EverythingElse.page11.items.467) for $163.92 with the buy screen.
+[2024-08-26 06:46:27] - Henzinlmao bought 1 x White Stained Glass(Z_EverythingElse.page11.items.467) for $6.83 with the buy screen.
+[2024-08-26 06:55:05] - Henzinlmao bought 6 x Oak Sign(Decoration.page3.items.98) for $15.12 with the buy screen.
+[2024-08-26 06:55:42] - Henzinlmao bought 2 x Oak Sign(Decoration.page3.items.98) for $5.04 with the buy screen.
+[2024-08-26 06:59:04] - Henzinlmao bought 64 x Water Bucket(Miscellaneous.page1.items.41) for $495.18 with the buy screen.
+[2024-08-26 07:02:36] - Henzinlmao bought 33 x Water Bucket(Miscellaneous.page1.items.41) for $495.18 with the buy screen.
+[2024-08-26 07:39:14] - Henzinlmao bought 64 x White Stained Glass(Z_EverythingElse.page11.items.467) for $437.12 with the buy screen.
+[2024-08-26 07:39:58] - Henzinlmao bought 64 x White Stained Glass(Z_EverythingElse.page11.items.467) for $437.12 with the buy screen.
+[2024-08-26 07:40:37] - Henzinlmao bought 32 x White Stained Glass(Z_EverythingElse.page11.items.467) for $218.56 with the buy screen.
+[2024-08-26 07:41:37] - Henzinlmao bought 12 x Obsidian(Blocks.page3.items.133) for $375 with the buy screen.
+[2024-08-26 07:42:40] - Henzinlmao bought 1 x Flint And Steel(Z_EverythingElse.page4.items.175) for $7.89 with the buy screen.
+[2024-08-26 07:49:25] - Henzinlmao bought 1 x Flint And Steel(Z_EverythingElse.page4.items.175) for $7.89 with the buy screen.
+[2024-08-26 07:56:26] - Henzinlmao bought 10 x White Stained Glass(Z_EverythingElse.page11.items.467) for $68.30 with the buy screen.
+[2024-08-26 08:09:52] - Henzinlmao bought 3 x Smooth Stone Slab(Z_EverythingElse.page10.items.406) for $1.20 with the buy screen.
+[2024-08-26 08:10:29] - Henzinlmao bought 3 x Cobweb(Miscellaneous.page1.items.6) for $120 with the buy screen.
+[2024-08-26 08:20:59] - Henzinlmao bought 1 x Cobweb(Miscellaneous.page1.items.6) for $40 with the buy screen.
+[2024-08-26 08:34:30] - Henzinlmao bought 3 x Water Bucket(Miscellaneous.page1.items.41) for $55.01 with the buy screen.
+[2024-08-26 08:38:33] - Henzinlmao bought 1 x Netherite Shovel(Z_EverythingElse.page7.items.310) for $2,545.16 with the buy screen.
+[2024-08-26 08:41:57] - Henzinlmao sold 3x Stick(Z_EverythingElse.page10.items.416), 32x Cobblestone(Blocks.page2.items.54), 1x Torch(Z_EverythingElse.page10.items.444), 1x Mutton(Food.page1.items.18), 1x Enchanted Book(Enchanting.page1.items.24), 3x Gray Carpet(Z_EverythingElse.page5.items.200), 1x Lever(Redstone.page1.items.8), 2x Smooth Stone(Z_EverythingElse.page9.items.405), 1x Diorite(Blocks.page3.items.96), 2x Smooth Stone Slab(Z_EverythingElse.page10.items.406), 1x Granite(Blocks.page3.items.115), 1x Water Bucket(Miscellaneous.page1.items.41), 6x Kelp(Farming.page1.items.14), 42x Warped Planks(Blocks.page5.items.219), 3x Glowstone Dust(Miscellaneous.page1.items.13), 1x Enchanted Book(Enchanting.page1.items.31), 16x Bucket(Z_EverythingElse.page2.items.59), 1x Red Nether Bricks(Blocks.page3.items.131), 3x Gold Nugget(Z_EverythingElse.page5.items.181), 4x Spider Eye(Mobs.page1.items.17), 5x Cobbled Deepslate(Blocks.page2.items.89), 14x Obsidian(Blocks.page3.items.133), 1x Trident(Miscellaneous.page1.items.37), 6x White Stained Glass(Z_EverythingElse.page11.items.467), 10x String(Mobs.page1.items.18), 10x Dirt(Blocks.page3.items.102), 196x Redstone(Ores.page1.items.23), 8x Andesite(Blocks.page1.items.15) for $972.93 with the sell gui.
+[2024-08-26 08:45:55] - Henzinlmao bought 64 x White Stained Glass(Z_EverythingElse.page11.items.467) for $437.12 with the buy screen.
+[2024-08-26 08:45:55] - Henzinlmao bought 64 x White Stained Glass(Z_EverythingElse.page11.items.467) for $437.12 with the buy screen.
+[2024-08-26 08:50:49] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-26 08:54:08] - Henzinlmao bought 33 x Smooth Stone(Z_EverythingElse.page9.items.405) for $24.75 with the buy screen.
+[2024-08-26 08:54:29] - Henzinlmao bought 10 x Torch(Z_EverythingElse.page10.items.444) for $15.40 with the buy screen.
+[2024-08-26 08:57:02] - Henzinlmao bought 64 x Torch(Z_EverythingElse.page10.items.444) for $98.56 with the buy screen.
+[2024-08-26 08:57:40] - Henzinlmao bought 64 x Torch(Z_EverythingElse.page10.items.444) for $98.56 with the buy screen.
+[2024-08-26 08:58:22] - Henzinlmao bought 64 x Torch(Z_EverythingElse.page10.items.444) for $98.56 with the buy screen.
+[2024-08-26 08:58:58] - Henzinlmao bought 64 x Torch(Z_EverythingElse.page10.items.444) for $98.56 with the buy screen.
+[2024-08-26 09:05:09] - Henzinlmao bought 4 x Iron Ingot(Ores.page1.items.16) for $22.08 with the buy screen.
+[2024-08-26 09:09:09] - Henzinlmao sold 949x Cactus(Farming.page1.items.7) for $14,235 with the sell gui.
+[2024-08-27 03:13:07] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-27 03:13:07] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-27 03:13:08] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-27 03:13:13] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-27 03:13:14] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-27 03:19:07] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-27 03:19:08] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-27 03:19:08] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-27 03:19:08] - Henzinlmao bought 64 x Smooth Stone(Z_EverythingElse.page9.items.405) for $48 with the buy screen.
+[2024-08-27 03:21:01] - Henzinlmao bought 64 x Acacia Fence(Z_EverythingElse.page1.items.3) for $124.80 with the buy screen.
+[2024-08-27 03:23:03] - Henzinlmao bought 1 x Acacia Door(Z_EverythingElse.page1.items.2) for $2.32 with the buy screen.
+[2024-08-27 03:23:35] - Henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-27 03:23:35] - Henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-27 03:24:15] - Henzinlmao bought 1 x Large Fern(Z_EverythingElse.page6.items.243) for $7 with the buy screen.
+[2024-08-27 03:24:28] - Henzinlmao bought 63 x Large Fern(Z_EverythingElse.page6.items.243) for $441 with the buy screen.
+[2024-08-27 03:24:43] - Henzinlmao bought 64 x Seagrass(Z_EverythingElse.page9.items.395) for $448 with the buy screen.
+[2024-08-27 03:24:49] - Henzinlmao bought 2 x Water Bucket(Miscellaneous.page1.items.41) for $36.68 with the buy screen.
+[2024-08-27 03:25:19] - Henzinlmao bought 1 x Vine(Decoration.page3.items.105) for $7 with the buy screen.
+[2024-08-27 03:25:28] - Henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-27 03:25:53] - Henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-27 03:26:30] - Henzinlmao bought 1 x Fern(Z_EverythingElse.page4.items.169) for $6 with the buy screen.
+[2024-08-27 03:26:30] - Henzinlmao bought 1 x Fern(Z_EverythingElse.page4.items.169) for $6 with the buy screen.
+[2024-08-27 03:26:30] - Henzinlmao bought 1 x Fern(Z_EverythingElse.page4.items.169) for $6 with the buy screen.
+[2024-08-27 03:26:30] - Henzinlmao bought 1 x Fern(Z_EverythingElse.page4.items.169) for $6 with the buy screen.
+[2024-08-27 03:27:31] - Henzinlmao bought 1 x Soul Sand(Blocks.page1.items.10) for $10 with the buy screen.
+[2024-08-27 03:32:13] - Henzinlmao bought 2 x Repeater(Redstone.page1.items.18) for $29.84 with the buy screen.
+[2024-08-27 03:32:22] - Henzinlmao bought 1 x Redstone Torch(Redstone.page1.items.13) for $4.29 with the buy screen.
+[2024-08-27 03:32:26] - Henzinlmao bought 1 x Redstone(Ores.page1.items.23) for $3.50 with the buy screen.
+[2024-08-27 03:32:26] - Henzinlmao bought 1 x Redstone(Ores.page1.items.23) for $3.50 with the buy screen.
+[2024-08-27 03:32:26] - Henzinlmao bought 1 x Redstone(Ores.page1.items.23) for $3.50 with the buy screen.
+[2024-08-27 03:32:27] - Henzinlmao bought 1 x Redstone(Ores.page1.items.23) for $3.50 with the buy screen.
+[2024-08-27 03:32:27] - Henzinlmao bought 1 x Redstone(Ores.page1.items.23) for $3.50 with the buy screen.
+[2024-08-27 03:33:53] - Henzinlmao bought 1 x Jungle Boat(Z_EverythingElse.page12.items.498) for $5.79 with the buy screen.
+[2024-08-27 03:40:39] - Henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-27 03:40:58] - Henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-27 03:41:42] - Henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-27 03:41:42] - Henzinlmao bought 1 x Water Bucket(Miscellaneous.page1.items.41) for $18.34 with the buy screen.
+[2024-08-27 03:52:22] - Henzinlmao bought 1 x Elytra(Miscellaneous.page1.items.8) for $2,415.20 with the buy screen.
+[2024-08-27 03:52:29] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.21) for $10,000 with the buy screen.
+[2024-08-27 03:52:32] - Henzinlmao bought 1 x Enchanted Book(Enchanting.page1.items.38) for $441 with the buy screen.
+[2024-08-27 03:52:36] - Henzinlmao bought 1 x Anvil(Miscellaneous.page1.items.1) for $187.25 with the buy screen.
+[2024-08-27 03:53:05] - Henzinlmao bought 64 x Firework Rocket(Z_EverythingElse.page4.items.171) for $350.08 with the buy screen.
+[2024-08-27 03:53:05] - Henzinlmao bought 64 x Firework Rocket(Z_EverythingElse.page4.items.171) for $350.08 with the buy screen.
+[2024-08-27 03:53:06] - Henzinlmao bought 64 x Firework Rocket(Z_EverythingElse.page4.items.171) for $350.08 with the buy screen.
+[2024-08-27 04:07:36] - long191910 bought 1 x Bundle(Z_EverythingElse.page2.items.60) for $65.10 with the buy screen.
+[2024-08-27 04:38:59] - Henzinlmao bought 1 x Totem Of Undying(Miscellaneous.page1.items.36) for $100 with the buy screen.
+[2024-08-27 04:41:56] - Henzinlmao bought 1 x Bundle(Z_EverythingElse.page2.items.60) for $65.10 with the buy screen.
+[2024-08-27 05:57:06] - Henzinlmao bought 1 x Anvil(Miscellaneous.page1.items.1) for $187.25 with the buy screen.
+[2024-08-27 06:06:44] - Henzinlmao bought 1 x Cherry Boat(Z_EverythingElse.page11.items.494) for $4.14 with the buy screen.
+[2024-08-27 06:07:59] - Henzinlmao bought 1 x Cherry Boat(Z_EverythingElse.page11.items.494) for $4.14 with the buy screen.
+[2024-08-27 09:19:40] - long191910 bought 1 x Elytra(Miscellaneous.page1.items.8) for $2,415.20 with the buy screen.
+[2024-08-27 09:21:15] - Henzinlmao bought 64 x Golden Carrot(Food.page1.items.8) for $780.80 with the buy screen.
+[2024-08-27 09:38:33] - Henzinlmao bought 8 x Slime Block(Blocks.page1.items.8) for $378 with the buy screen.
+[2024-08-27 09:39:01] - Henzinlmao bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-08-27 09:39:37] - Henzinlmao sold 1600x Bamboo(Farming.page1.items.1) for $48,000 with the sell gui.
+[2024-08-27 09:39:44] - Henzinlmao sold 1600x Bamboo(Farming.page1.items.1) for $48,000 with the sell gui.
+[2024-08-27 09:40:46] - Henzinlmao sold 1536x Bamboo(Farming.page1.items.1) for $46,080 with the sell gui.
+[2024-08-27 09:41:01] - Henzinlmao sold 1600x Bamboo(Farming.page1.items.1) for $48,000 with the sell gui.
+[2024-08-27 09:41:19] - Henzinlmao sold 1600x Bamboo(Farming.page1.items.1) for $48,000 with the sell gui.
+[2024-08-27 09:41:27] - Henzinlmao sold 1600x Bamboo(Farming.page1.items.1) for $48,000 with the sell gui.
+[2024-08-27 10:09:44] - Henzinlmao bought 1 x Cherry Boat(Z_EverythingElse.page11.items.494) for $4.14 with the buy screen.
+[2024-08-27 13:52:44] - long191910 bought 1 x Cyan Shulker Box(Z_EverythingElse.page3.items.113) for $26.29 with the buy screen.
+[2024-09-05 09:20:35] - Henzinlmao bought 64 x Firework Rocket(Z_EverythingElse.page4.items.171) for $350.08 with the buy screen.
+[2024-09-05 09:20:36] - Henzinlmao bought 64 x Firework Rocket(Z_EverythingElse.page4.items.171) for $350.08 with the buy screen.
+[2024-09-05 09:22:02] - Henzinlmao bought 1 x Acacia Boat(Z_EverythingElse.page11.items.488) for $5.79 with the buy screen.

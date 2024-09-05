@@ -1,0 +1,10 @@
+cosmetics:
+  shogunset_head:
+    display_name: Shogun Head
+    dye:
+      enabled: false
+    enabled: true
+    model:
+      gui: potion:7850000
+      normal: potion:7850000
+    type: HAT

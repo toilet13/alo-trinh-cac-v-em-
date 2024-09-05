@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722092175173
+  login: 1722086546971
+money: '5.76'
+last-account-name: Haka_Kenzin
+logoutlocation:
+  world: 776970f6-dcc3-43e5-9b0f-6c2ca492ee44
+  world-name: world_the_end
+  x: 1021.9887240197281
+  y: 1150.46403703404
+  z: -631.5514271132606
+  yaw: -108.89947509765625
+  pitch: 33.750064849853516

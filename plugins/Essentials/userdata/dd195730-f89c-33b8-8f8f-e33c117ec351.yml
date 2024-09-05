@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724219332153
+  login: 1724219130491
+money: '4484849.0'
+lastlocation:
+  world: bfe7c7dc-f35a-4fd6-8f72-510ee7a46ade
+  world-name: lobby
+  x: 63.28668649060165
+  y: 77.0
+  z: -482.1009390425108
+  yaw: 167.9110107421875
+  pitch: -26.004314422607422
+logoutlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: -90.69622084866008
+  y: 62.0
+  z: -492.8820760444249
+  yaw: 38.3272705078125
+  pitch: 13.270563125610352
+last-account-name: liejurv

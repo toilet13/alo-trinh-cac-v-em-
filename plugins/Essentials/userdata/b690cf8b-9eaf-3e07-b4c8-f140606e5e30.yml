@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724587027136
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724601181185
+  login: 1724600398373
+money: '54045760.75'
+logoutlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 127.73031026979072
+  y: 81.5
+  z: -78.16675782895294
+  yaw: 69.0233154296875
+  pitch: -23.996545791625977
+last-account-name: tocacchut
+lastlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 408.29099642244194
+  y: 84.47554057566092
+  z: -377.80435189002924
+  yaw: -118.71974182128906
+  pitch: 14.137798309326172

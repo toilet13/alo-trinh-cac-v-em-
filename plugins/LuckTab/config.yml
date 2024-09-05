@@ -1,0 +1,7 @@
+useChatFormat: true
+useColorTranslate: true
+chatFormat: '%chatPrefix%%playerName% &8\xbb &7%message%'
+autoUpdate: true
+prefixes:
+- owner;&4Owner &7» &4;&4Owner &7- &4
+- 'default;&7Player » ;&7Player - '

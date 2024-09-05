@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722593202781
+  login: 1722589443626
+money: '0'
+last-account-name: lqkhanhh
+logoutlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 21.97825260627311
+  y: 67.0
+  z: -601.3217785033872
+  yaw: 29.911800384521484
+  pitch: 17.550012588500977
+lastlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 23.56190414414172
+  y: 63.796735600668704
+  z: -480.3562956739098
+  yaw: -92.60769653320312
+  pitch: 5.329545974731445

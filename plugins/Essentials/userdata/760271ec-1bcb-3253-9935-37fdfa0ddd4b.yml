@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724652276381
+  login: 1724648288164
+money: '104659.0'
+last-account-name: GeneralPatrickVN
+lastlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 254.27325677298103
+  y: 62.371574112495026
+  z: -204.68110677959888
+  yaw: 0.15316705405712128
+  pitch: 20.95301055908203
+logoutlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: 158.11695140917877
+  y: 61.22081543616423
+  z: -482.5219308779125
+  yaw: 132.22239685058594
+  pitch: 9.896766662597656

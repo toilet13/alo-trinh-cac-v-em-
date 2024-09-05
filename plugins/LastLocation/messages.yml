@@ -1,0 +1,4 @@
+access-denied: '&cAccess denied'
+reloaded: '&6Configuration reloaded'
+help-reload: '&a/ll reload &7- &6Reload config from disk'
+invalid-topic: '&cInvalid help topic!'

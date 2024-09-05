@@ -1,0 +1,80 @@
+  
+info:
+  namespace: shogunset
+items:
+  shogun_cosmetics_head:
+    display_name: Shogun Head Cosmetics
+    permission: shogun.head_cosmetics
+    resource:
+      generate: false
+      material: POTION
+      model_path: helmet
+      model_id: 7850000
+
+
+  shogun_cosmetics_katana_sheath:
+    display_name: Shogun Katana Sheath Cosmetics
+    permission: shogun.katana_sheath_cosmetics
+    resource:
+      generate: false
+      material: POTION
+      model_path: katana_sheath_cosmetics
+      model_id: 7850001
+  shogun_cosmetics_katana_sheath_self:
+    display_name: Shogun Katana Sheath Cosmetics Self
+    permission: shogun.katana_sheath_cosmetics_self
+    resource:
+      generate: false
+      material: POTION
+      model_path: katana_sheath_cosmetics_self
+      model_id: 7850002      
+  shogun_cosmetics_katana_sheath_self_2:
+    display_name: Shogun Katana Sheath Cosmetics Self 2
+    permission: shogun.katana_sheath_cosmetics_self_2
+    resource:
+      generate: false
+      material: POTION
+      model_path: katana_sheath_cosmetics_self_2
+      model_id: 7850003      
+  shogun_cosmetics_katana_sheath_normal_2:
+    display_name: Shogun Katana Sheath Cosmetics Normal 2
+    permission: shogun.katana_sheath_cosmetics_normal_2
+    resource:
+      generate: false
+      material: POTION
+      model_path: katana_sheath_cosmetics_normal_2
+      model_id: 7850004   
+
+  shogun_cosmetics_flag_backpack:
+    display_name: Shogun Flag Backpack Cosmetics
+    permission: shogun.flag_backpack_cosmetics
+    resource:
+      generate: false
+      material: POTION
+      model_path: flag_backpack_cosmetics
+      model_id: 7850005
+  shogun_cosmetics_flag_backpack_self:
+    display_name: Shogun Flag Backpack Cosmetics Self
+    permission: shogun.flag_backpack_cosmetics_self
+    resource:
+      generate: false
+      material: POTION
+      model_path: flag_backpack_cosmetics_self
+      model_id: 7850006      
+  shogun_cosmetics_flag_backpack_self_2:
+    display_name: Shogun Flag Backpack Cosmetics Self 2
+    permission: shogun.flag_backpack_cosmetics_self_2
+    resource:
+      generate: false
+      material: POTION
+      model_path: flag_backpack_cosmetics_self_2
+      model_id: 7850007      
+  shogun_cosmetics_flag_backpack_normal_2:
+    display_name: Shogun Flag Backpack Cosmetics Normal 2
+    permission: shogun.flag_backpack_cosmetics_normal_2
+    resource:
+      generate: false
+      material: POTION
+      model_path: flag_backpack_cosmetics_normal_2
+      model_id: 7850008   
+

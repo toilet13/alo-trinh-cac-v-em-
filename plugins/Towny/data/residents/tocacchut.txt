@@ -1,0 +1,14 @@
+uuid=b690cf8b-9eaf-3e07-b4c8-f140606e5e30
+lastOnline=1724601181180
+registered=1723882277066
+joinedTownAt=1724579965866
+isNPC=false
+title=
+surname=
+town=diff_alias
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse
+metadata=

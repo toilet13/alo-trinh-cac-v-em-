@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724313970398
+  login: 1724313264367
+money: '1018497.761'
+last-account-name: cutngam
+logoutlocation:
+  world: 77c3a7df-8262-4b29-a6e1-0abb4db66ba0
+  world-name: world
+  x: -191.6141127376731
+  y: 92.3113120695068
+  z: -469.07291069921615
+  yaw: 133.51995849609375
+  pitch: 52.560935974121094
+lastlocation:
+  world: bfe7c7dc-f35a-4fd6-8f72-510ee7a46ade
+  world-name: lobby
+  x: -155.5379763732198
+  y: 89.16610926093821
+  z: -823.0012788835472
+  yaw: -32.8060302734375
+  pitch: 34.760162353515625

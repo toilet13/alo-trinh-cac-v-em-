@@ -1,0 +1,11 @@
+default-voucher-icon: paper
+default-use-sound: entity_player_levelup
+default-voucher-footer:
+  - ""
+  - "&eRight click to use"
+prevent-no-rewards: false
+ignore-denied-interact: false
+date-format: "dd/MM/yyyy HH:mm:ss"
+double-check-timeout: 3
+dev-mode: false
+debug-level: 0

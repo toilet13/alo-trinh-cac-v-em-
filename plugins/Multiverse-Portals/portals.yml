@@ -1,0 +1,20 @@
+portals:
+  world:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: long191910
+    location: -30.0,101.0,-785.0:-27.0,106.0,-782.0
+    world: lobby
+  survival:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: long191910
+    location: -29.0,95.0,-757.0:-29.0,98.0,-754.0
+    world: lobby
+    destination: world

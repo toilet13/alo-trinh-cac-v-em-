@@ -1,0 +1,13 @@
+prefix: "&e[Voucher] "
+default-use-message:
+  - ""
+  - "      &eBạn vừa dùng: {voucher-name}"
+  - ""
+no-rewards-given: "&cChưa có phần thưởng! Hãy thử dùng voucher lần nữa"
+invalid-voucher: "&cVoucher này không còn tồn tại"
+global-usage-limit: "&cĐã có quá nhiều người dùng voucher này! &f({max})"
+player-usage-limit: "&cBạn đã dùng quá nhiều &f({max})"
+in-cooldown: "&cVui lòng chờ trước khi có thể dùng tiếp, còn &f{time}"
+condition-not-satisfied: "&cBạn không có đủ điều kiện dùng voucher!"
+exclusivity-not-satisfied: "&cVoucher này chỉ dành cho ai đó, bạn không thể dùng!"
+double-check: "&bChuột phải trong 3s để xác nhận dùng!"

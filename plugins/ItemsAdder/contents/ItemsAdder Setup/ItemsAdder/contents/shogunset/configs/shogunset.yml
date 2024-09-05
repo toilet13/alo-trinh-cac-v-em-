@@ -1,0 +1,161 @@
+info:
+  namespace: shogunset
+items:
+  shogun_axe:
+    display_name: Shogun Axe
+    permission: shogun.axe
+    resource:
+      generate: false
+      material: IRON_AXE
+      model_path: axe
+  shogun_bow:
+    display_name: Shogun Bow
+    permission: shogun.bow
+    resource:
+      generate: false
+      material: BOW
+      model_path: bow
+  shogun_chest:
+    behaviours:
+      furniture:
+        fixed_rotation: true
+        hitbox:
+          height: 1
+          height_offset: 0
+          length: 1
+          length_offset: 0
+          width: 1
+          width_offset: 0
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        solid: true
+    display_name: Shogun Chest
+    permission: shogun.chest
+    resource:
+      generate: false
+      material: SEA_LANTERN
+      model_path: chest
+
+  shogun_crossbow:
+    display_name: Shogun Crossbow
+    permission: shogun.crossbow
+    resource:
+      generate: false
+      material: CROSSBOW
+      model_path: crossbow
+  shogun_fishing_rod:
+    display_name: Shogun Fishing Rod
+    permission: shogun.fishing_rod
+    resource:
+      generate: false
+      material: FISHING_ROD
+      model_path: fishing_rod
+  shogun_hoe:
+    display_name: Shogun Hoe
+    permission: shogun.hoe
+    resource:
+      generate: false
+      material: IRON_HOE
+      model_path: hoe
+  shogun_key:
+    display_name: Shogun Key
+    permission: shogun.key
+    resource:
+      generate: false
+      material: PAPER
+      model_path: key
+  shogun_pickaxe:
+    display_name: Shogun Pickaxe
+    permission: shogun.pickaxe
+    resource:
+      generate: false
+      material: IRON_PICKAXE
+      model_path: pickaxe
+  shogun_shovel:
+    display_name: Shogun Shovel
+    permission: shogun.shovel
+    resource:
+      generate: false
+      material: IRON_SHOVEL
+      model_path: shovel
+  shogun_sword:
+    display_name: Shogun Sword
+    permission: shogun.sword
+    resource:
+      generate: false
+      material: IRON_SWORD
+      model_path: sword
+  shogun_hammer:
+    display_name: Shogun Hammer
+    permission: shogun.hammer
+    resource:
+      generate: false
+      material: IRON_SWORD
+      model_path: hammer
+  shogun_scythe:
+    display_name: Shogun scythe
+    permission: shogun.scythe
+    resource:
+      generate: false
+      material: IRON_SWORD
+      model_path: scythe
+  shogun_spear:
+    display_name: Shogun Spear
+    permission: shogun.spear
+    resource:
+      generate: false
+      material: IRON_SWORD
+      model_path: spear
+  shogun_staff:
+    display_name: Shogun Staff
+    permission: shogun.staff
+    resource:
+      generate: false
+      material: IRON_SWORD
+      model_path: staff
+  shogun_trident:
+    display_name: Shogun Trident
+    permission: shogun.trident
+    resource:
+      generate: false
+      material: IRON_SWORD
+      model_path: trident
+  shogun_tanto:
+    display_name: Shogun Tanto
+    permission: shogun.tanto
+    resource:
+      generate: false
+      material: IRON_SWORD
+      model_path: tanto
+  shogun_katana_sheath:
+    display_name: Shogun Katana Sheath
+    permission: shogun.katana_sheath
+    resource:
+      generate: false
+      material: PAPER
+      model_path: katana_sheath
+  shogun_flag_backpack:
+    display_name: Shogun Flag Backpack
+    permission: shogun.flag_backpack
+    resource:
+      generate: false
+      material: PAPER
+      model_path: flag_backpack
+  shogun_head:
+    behaviours:
+      hat: true
+    display_name: Shogun Head
+    permission: shogun.head
+    resource:
+      generate: false
+      material: PAPER
+      model_path: helmet
+  shogun_shield:
+    display_name: Shogun Shield
+    permission: shogun.shield
+    resource:
+      generate: false
+      material: SHIELD
+      model_path: shield

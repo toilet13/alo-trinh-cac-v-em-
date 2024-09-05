@@ -1,0 +1,68 @@
+kits:
+  tools:
+    delay: 10
+    items:
+    - stonesword 1
+    - stoneshovel 1
+    - stonepickaxe 1
+    - stoneaxe 1
+  dtools:
+    delay: 600
+    items:
+    - dpickaxe 1 efficiency:1 durability:1 fortune:1 name:&4Gigadrill lore:The_drill_that_&npierces|the_heavens
+    - dshovel 1 digspeed:3 name:Dwarf lore:Diggy|Diggy|Hole
+    - lhelm 1 color:255,255,255 name:Top_Hat lore:Good_day,_Good_day
+    - daxe:780 1
+    - /broadcast {USERNAME} just got some fancy tools!
+  notch:
+    delay: 6000
+    items:
+    - playerhead 1 player:Notch
+  color:
+    delay: 6000
+    items:
+    - writtenbook 1 title:&4Book_&9o_&6Colors author:KHobbits lore:Ingame_color_codes
+      book:Colors
+  firework:
+    delay: 6000
+    items:
+    - fireworkrocket 1 name:Angry_Creeper color:red fade:green type:creeper power:1
+    - fireworkrocket 1 name:Starry_Night color:yellow,orange fade:blue type:star effect:trail,twinkle
+      power:1
+    - fireworkrocket 2 name:Solar_Wind color:yellow,orange fade:red shape:large effect:twinkle
+      color:yellow,orange fade:red shape:ball effect:trail color:red,purple fade:pink
+      shape:star effect:trail power:1
+  bedrock:
+    delay: 1
+    items:
+    - bedrock 1
+    - obsidian 1
+    - command_block 2
+    - sticky_piston 1
+    - netherite_block 1
+    - diamond 64
+    - diamond 64
+    - blaze_rod 1
+    - wooden_hoe 1 name:&cSKIBIDI&0_SCYTHE lore:&0HITTER fire_aspect:1000 itemflags:HIDE_ENCHANTS,HIDE_ATTRIBUTES,HIDE_UNBREAKABLE
+    - obsidian 1
+    - arrow 10
+    - enchanted_book 1 name:&csach&0_phep lore:&0HITTER knockback:1000 itemflags:HIDE_ENCHANTS,HIDE_ATTRIBUTES,HIDE_UNBREAKABLE
+    - leather 10
+    - oak_log 20
+    - netherite_boots 1
+    - bow 1
+    - diorite 9
+    - oak_stairs 2
+    - damaged_anvil 64
+    - enchanted_book 1 name:&csach&0_phep lore:&0HITTER knockback:1000 itemflags:HIDE_ENCHANTS,HIDE_ATTRIBUTES,HIDE_UNBREAKABLE
+    - bone 14
+    - iron_axe 1 mending:1 sharpness:5 unbreaking:3
+    - torch 17
+    - chorus_fruit 20
+    - rotten_flesh 11
+    - raw_iron 6
+    - diamond_hoe 1
+    - cobblestone 64
+    - string 26
+    - netherrack 18
+    - cooked_beef 35 name:&c&lTHỊT_DÁI_HENZIN

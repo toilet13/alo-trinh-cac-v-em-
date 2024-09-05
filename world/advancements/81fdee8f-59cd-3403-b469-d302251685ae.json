@@ -1,0 +1,30 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-25 04:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2024-08-25 04:40:47 +0000",
+      "minecraft:beach": "2024-08-25 04:45:43 +0000",
+      "minecraft:mangrove_swamp": "2024-08-25 04:46:07 +0000",
+      "minecraft:river": "2024-08-25 04:40:27 +0000",
+      "minecraft:forest": "2024-08-25 04:41:01 +0000",
+      "minecraft:ocean": "2024-08-25 04:40:36 +0000",
+      "minecraft:windswept_savanna": "2024-08-25 04:41:04 +0000",
+      "minecraft:old_growth_birch_forest": "2024-08-25 04:41:02 +0000",
+      "minecraft:savanna": "2024-08-25 04:50:54 +0000",
+      "minecraft:plains": "2024-08-25 04:39:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-08-25 04:41:25 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

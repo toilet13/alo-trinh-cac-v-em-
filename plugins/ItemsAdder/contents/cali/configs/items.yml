@@ -1,0 +1,13 @@
+info:
+  namespace: cali
+items:
+        
+  gielau:
+  permission: cali.gielau
+    display_name: "&fGie Lau"
+    resource:
+      material: DIRT
+      generate: false
+      model_path: cali
+    behaviours:
+      hat: true

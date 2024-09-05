@@ -1,0 +1,21 @@
+gui:
+  nonextpage: '&cThere are no more pages'
+  nopreviouspage: '&cThere is no previous page'
+schematic:
+  permission: '&cYou don''t have the permission to load this schematic'
+  failedtopay: '&cYou can''t pay enough to load this schematic'
+cmds:
+  schematic:
+    noschematics: '&cThere are no schematics loaded'
+    load:
+      nosuchschematic: '&cThere is no such schematic'
+      wrongformat: '&cPlease use this format /schematic load <Schematic>'
+    reload:
+      nosuchconfig: '&cThere is no such schematic'
+      wrongformat: '&cPlease use this format /schematic load <Schematic>'
+    give:
+      nosuchschematic: '&cThere is no such schematic'
+      playernotonline: '&cThe player isn''t online'
+      wrongformat: '&cPlease use this format /schematic give <Player> <Schematic>'
+worldguard:
+  cannotload: '&cYou can''t load a schematic here'
